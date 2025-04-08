@@ -1,0 +1,41 @@
+site_name: App
+
+nav:
+  - Início: index.md
+     
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.footer
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+  language: pt
+
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch
+        name: Dark mode
+      primary: indigo
+      accent: indigo
+    - scheme: slate
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Light mode
+      primary: indigo
+      accent: indigo
+
+markdown_extensions:
+  - attr_list
+
+extra_css:
+  - css/custom.css
