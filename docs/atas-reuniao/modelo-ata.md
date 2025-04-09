@@ -1,4 +1,16 @@
-# Cronograma
+# Ata de Reunião - 00/00/0000
+
+Reunião realizada no Microsoft Teams
+
+## Participantes
+
+## Início e término
+
+## Objetivo
+
+## Decisões
+
+## Gravação da reunião
 
 ## Histórico de versão
 

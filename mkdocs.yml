@@ -1,4 +1,8 @@
-site_name: App
+site_name: Detran-DF
+
+repo_name: "2025.1-DetranDF"
+repo_url: "https://github.com/Requisitos-de-Software/2025.1-DetranDF.git"
+site_url: "https://requisitos-de-software.github.io/2025.1-DetranDF/"
 
 theme:
   name: material
@@ -40,4 +44,7 @@ extra_css:
 nav:
   - Início: index.md
   - Planejamento:
-      - planejamento/cronograma.md
+      - Cronograma: planejamento/cronograma.md
+  - Atas das Reuniões:
+      - Reunião 1 - 31/03/2025: atas-reuniao/ata-1.md
+      - Reunião 1 - 08/04/2025: atas-reuniao/ata-2.md
