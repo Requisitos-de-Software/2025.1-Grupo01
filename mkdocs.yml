@@ -1,8 +1,5 @@
 site_name: App
 
-nav:
-  - Início: index.md
-     
 theme:
   name: material
   features:
@@ -39,3 +36,8 @@ markdown_extensions:
 
 extra_css:
   - css/custom.css
+
+nav:
+  - Início: index.md
+  - Planejamento:
+      - planejamento/cronograma.md
