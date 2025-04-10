@@ -6,9 +6,7 @@ Ata da reunião que aconteceu no dia 04/04/2025 das 13:00 a 13:10 da tarde, com 
 
 ## Quem esteve presente
 
-Na tabela 1 montra quem esteve presente nessa reunião
-
-Tabela 1: Informações sobre a reunião
+Tabela : Informações sobre a reunião
 
 | Alunos Presentes       | Data | Horário de Inicio e Fim                                 | Local            |
 | :--------: | :----: | :--------------------:                    | :---------------: |
@@ -35,9 +33,7 @@ Definimos que iamos fazer as gravações das reuniões e apresentações pelo Te
 
 ## Histórico de versão
 
-Na tabela 2 monstra o Histórico de versão
-
-Tabela 2: Histórico de versão
+Tabela : Histórico de versão
 
 | Versão |    Data    |       Descrição        |                   Autor                    | Revisor |
 | :----: | :--------: | :--------------------: | :----------------------------------------: | :-----: |
