@@ -44,6 +44,7 @@ extra_css:
 nav:
   - Início: index.md
   - Planejamento:
+      - Aplicativo Selecionado: planejamento/AplicativoSelecionado.md
       - Cronograma: planejamento/cronograma.md
       - Metodologia: planejamento/metodologia.md
   - Atas das Reuniões:
