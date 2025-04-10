@@ -70,7 +70,7 @@ Conforme solicitado pelo professor, implementaremos um processo de inspeção pa
 
 | Versão |    Data    |       Descrição        |                   Autor                    | Revisor |
 | :----: | :--------: | :--------------------: | :----------------------------------------: | :-----: |
-|  1.0   | 09/04/2025 | Criação da página de metodologia | [Luiz Bessa](https://github.com/lfelipebessa) |         |
+|  1.0   | 09/04/2025 | Criação da página de metodologia | [Luiz Bessa](https://github.com/lfelipebessa) |   [Giovana Barbosa](https://github.com/gio221)|
 
 ## Referências
 
