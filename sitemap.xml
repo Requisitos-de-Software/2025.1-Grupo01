@@ -2,22 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://requisitos-de-software.github.io/2025.1-DetranDF/</loc>
-         <lastmod>2025-04-09</lastmod>
+         <lastmod>2025-04-10</lastmod>
     </url>
     <url>
          <loc>https://requisitos-de-software.github.io/2025.1-DetranDF/atas-reuniao/ata-1/</loc>
-         <lastmod>2025-04-09</lastmod>
+         <lastmod>2025-04-10</lastmod>
     </url>
     <url>
          <loc>https://requisitos-de-software.github.io/2025.1-DetranDF/atas-reuniao/ata-2/</loc>
-         <lastmod>2025-04-09</lastmod>
+         <lastmod>2025-04-10</lastmod>
     </url>
     <url>
          <loc>https://requisitos-de-software.github.io/2025.1-DetranDF/atas-reuniao/modelo-ata/</loc>
-         <lastmod>2025-04-09</lastmod>
+         <lastmod>2025-04-10</lastmod>
+    </url>
+    <url>
+         <loc>https://requisitos-de-software.github.io/2025.1-DetranDF/planejamento/AplicativoSelecionado/</loc>
+         <lastmod>2025-04-10</lastmod>
     </url>
     <url>
          <loc>https://requisitos-de-software.github.io/2025.1-DetranDF/planejamento/cronograma/</loc>
-         <lastmod>2025-04-09</lastmod>
+         <lastmod>2025-04-10</lastmod>
+    </url>
+    <url>
+         <loc>https://requisitos-de-software.github.io/2025.1-DetranDF/planejamento/metodologia/</loc>
+         <lastmod>2025-04-10</lastmod>
+    </url>
+    <url>
+         <loc>https://requisitos-de-software.github.io/2025.1-DetranDF/planejamento/termo-de-uso/</loc>
+         <lastmod>2025-04-10</lastmod>
     </url>
 </urlset>
