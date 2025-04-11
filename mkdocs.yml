@@ -37,6 +37,7 @@ theme:
 
 markdown_extensions:
   - attr_list
+  - tables
 
 nav:
   - Início: index.md
@@ -55,6 +56,5 @@ nav:
       - Rich Pictures: planejamento/Rich-picture.md
   - Verificações:
       - Entrega 1:
-        - Verificação Nosso Grupo: Verificações/Entrega 1/Verificação-NossoGrupo.md
-        - Verificação Grupo +1: Verificações/Entrega 1/Verificação-Grupo+1.md
-  
+          - Verificação Nosso Grupo: Verificações/Entrega 1/Verificação-NossoGrupo.md
+          - Verificação Grupo +1: Verificações/Entrega 1/Verificação-Grupo+1.md
