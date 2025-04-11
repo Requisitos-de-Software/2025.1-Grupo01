@@ -52,4 +52,8 @@ nav:
       - Cronograma: planejamento/cronograma.md
       - Metodologia: planejamento/metodologia.md
       - Rich Pictures: planejamento/Rich-picture.md
+  - Verificações:
+      - Entrega 1:
+        - Verificação Nosso Grupo: Verificações/Entrega 1/Verificação-NossoGrupo.md
+        - Verificação Grupo +1: Verificações/Entrega 1/Verificação-Grupo+1.md
   
