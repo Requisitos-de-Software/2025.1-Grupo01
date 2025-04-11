@@ -29,10 +29,6 @@ O fluxo do Scrum é composto por eventos e artefatos que estruturam o processo d
 Para o desenvolvimento da documentação do aplicativo 'Detran-DF', adaptaremos o Scrum da seguinte forma:
 
 - **Sprints Semanais**: Cada Sprint terá a duração de uma semana, iniciando com uma reunião de planejamento para definir as tarefas a serem realizadas.
-- **Reuniões Diárias (Daily Scrum)**: Serão realizadas reuniões diárias de 15 minutos para que cada membro da equipe compartilhe:
-  - O que foi feito desde a última reunião.
-  - O que será feito até a próxima reunião.
-  - Quaisquer impedimentos encontrados.
 - **Revisão da Sprint**: Ao final de cada Sprint, conduziremos uma reunião de revisão para demonstrar o que foi produzido e receber feedback.
 - **Retrospectiva da Sprint**: Após a revisão, realizaremos uma retrospectiva para discutir o que funcionou bem, o que pode ser melhorado e como implementar essas melhorias nas próximas Sprints.
 
@@ -74,8 +70,8 @@ Conforme solicitado pelo professor, implementaremos um processo de inspeção pa
 | Versão |    Data    |            Descrição             |                     Autor                     |                   Revisor                    |
 | :----: | :--------: | :------------------------------: | :-------------------------------------------: | :------------------------------------------: |
 |  1.0   | 09/04/2025 | Criação da página de metodologia | [Luiz Bessa](https://github.com/lfelipebessa) | [Giovana Barbosa](https://github.com/gio221) |
-
-## Bibliografia
-
-> 1. What is Scrum? Disponível em: [https://www.scrum.org/learning-series/what-is-scrum/](https://www.scrum.org/learning-series/what-is-scrum/). Acesso em: 10 de abril de 2025.
-> 2. What is scrum and how to get started? Disponível em: [https://www.atlassian.com/agile/scrum](https://www.atlassian.com/agile/scrum). Acesso em: 10 de abril de 2025.
+=======
+| Versão |    Data    |       Descrição        |                   Autor                    | Revisor |
+| :----: | :--------: | :--------------------: | :----------------------------------------: | :-----: |
+|  1.0   | 09/04/2025 | Criação da página de metodologia | [Luiz Bessa](https://github.com/lfelipebessa) |   [Giovana Barbosa](https://github.com/gio221)|
+|  1.0   | 11/04/2025 | Correção das informações referentes à metodologia | [Luiz Bessa](https://github.com/lfelipebessa) | |
