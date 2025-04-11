@@ -2,11 +2,15 @@
 
 ## Introdução
 
+<p align="justify">
 Para aprimorar a agilidade da equipe e utilizar técnicas familiares ao grupo, optamos por adotar metodologias ágeis, especificamente o Scrum. O Scrum é uma metodologia ágil que auxilia equipes a desenvolver produtos complexos de forma adaptativa e iterativa, promovendo entregas rápidas e contínuas de incrementos funcionais.
+</p>
 
 ## Fluxo do Scrum
 
+<p align="justify">
 O fluxo do Scrum é composto por eventos e artefatos que estruturam o processo de desenvolvimento. A seguir, apresentamos uma representação visual desse fluxo:
+</p>
 
 ![Fluxo do Scrum](../assets/scrumFluxo.png)
 
@@ -35,12 +39,11 @@ Para garantir um controle eficaz sobre as alterações nos documentos, estabelec
 - **Mensagens de Commit**: As mensagens devem descrever claramente a alteração realizada e corresponder à descrição no histórico de versionamento do arquivo.
 - **Alterações por Commit**: Evitar modificar mais de um arquivo de página por commit, facilitando a identificação de mudanças específicas.
 
-Exemplo de mensagem de commit:
+Exemplo de mensagem de **commit**:
 
 ```git
 git commit -m "Descrição clara da alteração realizada no arquivo"
 ```
-
 
 O uso de co-autoria é permitido quando aplicável.
 
@@ -64,12 +67,11 @@ Conforme solicitado pelo professor, implementaremos um processo de inspeção pa
 
 ## Histórico de Versão
 
+| Versão |    Data    |            Descrição             |                     Autor                     |                   Revisor                    |
+| :----: | :--------: | :------------------------------: | :-------------------------------------------: | :------------------------------------------: |
+|  1.0   | 09/04/2025 | Criação da página de metodologia | [Luiz Bessa](https://github.com/lfelipebessa) | [Giovana Barbosa](https://github.com/gio221) |
+=======
 | Versão |    Data    |       Descrição        |                   Autor                    | Revisor |
 | :----: | :--------: | :--------------------: | :----------------------------------------: | :-----: |
 |  1.0   | 09/04/2025 | Criação da página de metodologia | [Luiz Bessa](https://github.com/lfelipebessa) |   [Giovana Barbosa](https://github.com/gio221)|
 |  1.0   | 11/04/2025 | Correção das informações referentes à metodologia | [Luiz Bessa](https://github.com/lfelipebessa) | |
-
-## Referências
-
-- [Scrum.org - What is Scrum?](https://www.scrum.org/resources/what-is-scrum)
-- [Atlassian - What is scrum and how to get started](https://www.atlassian.com/agile/scrum)

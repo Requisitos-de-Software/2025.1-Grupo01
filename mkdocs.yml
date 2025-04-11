@@ -6,6 +6,8 @@ site_url: "https://requisitos-de-software.github.io/2025.1-DetranDF/"
 
 theme:
   name: material
+  favicon: assets/detrandf-logo.png
+  logo: assets/detrandf-logo.png
   features:
     - navigation.instant
     - navigation.tracking
@@ -47,6 +49,7 @@ nav:
   - Apresentações:
       - Apresentação 1: Apresentações/Apresentção1.md
   - Planejamento:
+      - Heatmap: planejamento/heatmap.md
       - Aplicativos Avaliados: planejamento/apps-avaliados.md
       - Aplicativo Selecionado: planejamento/AplicativoSelecionado.md
       - Termo de uso: planejamento/termo-de-uso.md

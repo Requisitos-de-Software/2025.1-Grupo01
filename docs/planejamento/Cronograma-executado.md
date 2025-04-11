@@ -2,61 +2,67 @@
 
 Este documento descreve o cronograma execuatdp para nosso projeto.
 
-## Objetivo 
+## Objetivo
 
 O objetivo desse arfetato é documentar o cronograma executado o projeto.
 
-## Metodologia 
+## Metodologia
+
 O cronograma em si não é uma metodologia de fato, mas sim uma ferramenta que utilizaremos para nosso planejamento de atividadades.
 
 ## Etapa 1: Planejamento do Projeto
 
 ### Executado
-    Esta tabela descreve as atividades executadas da etapa 1
 
-| Atividade       | Desenvolvimento | Responsável                                 | Revisores | 
-| :--------: | :----: | :--------------------:                    | :---------------: |
-| Montar git pages |  Inicio:05/04 Fim:05/04   | [João Lobo](https://github.com/joaolobo10)  | Todos |
-| Documentar Equipe |  Inicio: 08/04 Fim:11/04   |[Pedro Tulio](https://github.com/PedrooCamilo) | Todos |
-| Ferramentas do Projeto | Inicio: 08/04 Fim:11/04     |[Eric](https://github.com/eric-kingu)  | Todos|
-| Heatmap do projeto |  Inicio: 08/04 Fim:11/04   | [João Lobo](https://github.com/joaolobo10) | Todos |
-| Documentar app escolhido|  Inicio: 08/04 Fim:11/04     | [Maria Eduarda](https://github.com/maaduh)  |  Todos|
-| Seleção de apps individuais |  Inicio: 08/04 Fim:11/04    | [João Lobo](https://github.com/joaolobo10) ,[Giovana Barbosa ](https://github.com/gio221) ,[Maria Eduarda](https://github.com/maaduh),[Luiz Bessa](https://github.com/lfelipebessa) ,[Gabriel Dantas](https://github.com/gbevi),[Eric](https://github.com/eric-kingu),[Pedro Tulio](https://github.com/PedrooCamilo)  | Todos|
-| Rich Picture |  Inicio: 08/04 Fim:11/04    | [João Lobo](https://github.com/joaolobo10) ,[Giovana Barbosa ](https://github.com/gio221) ,[Maria Eduarda](https://github.com/maaduh),[Luiz Bessa](https://github.com/lfelipebessa) ,[Gabriel Dantas](https://github.com/gbevi),[Eric](https://github.com/eric-kingu),[Pedro Tulio](https://github.com/PedrooCamilo)  | Todos|
-| copia do termo de uso do app |  Inicio: 08/04 Fim:11/04    | [Gabriel Dantas](https://github.com/gbevi) | Todos|
-| Montar cronograma |  Inicio: 08/04 Fim:11/04    |[Giovana Barbosa ](https://github.com/gio221)  | Todos|
-| Responder perguntas |  Inicio: 11/04 Fim: 11/04  |[João Lobo](https://github.com/joaolobo10) ,[Giovana Barbosa ](https://github.com/gio221) ,[Maria Eduarda](https://github.com/maaduh),[Luiz Bessa](https://github.com/lfelipebessa) ,[Gabriel Dantas](https://github.com/gbevi),[Eric](https://github.com/eric-kingu),[Pedro Tulio](https://github.com/PedrooCamilo) | Todos|
-| Grava Video da Apresentação |  Inicio: 11/04 Fim: 13/04  | [João Lobo](https://github.com/joaolobo10) ,[Giovana Barbosa ](https://github.com/gio221) ,[Maria Eduarda](https://github.com/maaduh),[Luiz Bessa](https://github.com/lfelipebessa) ,[Gabriel Dantas](https://github.com/gbevi),[Eric](https://github.com/eric-kingu),[Pedro Tulio](https://github.com/PedrooCamilo)  | Todos|
-| Correção pós entrega   |  Inicio: 15/04 Fim: 18/04  | [João Lobo](https://github.com/joaolobo10) ,[Giovana Barbosa ](https://github.com/gio221) ,[Maria Eduarda](https://github.com/maaduh),[Luiz Bessa](https://github.com/lfelipebessa) ,[Gabriel Dantas](https://github.com/gbevi),[Eric](https://github.com/eric-kingu),[Pedro Tulio](https://github.com/PedrooCamilo)    | Todos|
+- A tabela abaixo descreve as atividades executadas da etapa 1.
 
-<center>Fonte: [Giovana Barbosa ](https://github.com/gio221)</center>
+<font size="3"><p style="text-align: center">**Tabela 1 -** Atividades executadas da etapa 1</p></font>
+
+|          Atividade           |     Desenvolvimento      |                                                                                                                                                     Responsável                                                                                                                                                      | Revisores |
+| :--------------------------: | :----------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------: |
+|       Montar git pages       |  Inicio:05/04 Fim:05/04  |                                                                                                                                      [João Lobo](https://github.com/joaolobo10)                                                                                                                                      |   Todos   |
+|      Documentar Equipe       | Inicio: 08/04 Fim:11/04  |                                                                                                                                    [Pedro Tulio](https://github.com/PedrooCamilo)                                                                                                                                    |   Todos   |
+|    Ferramentas do Projeto    | Inicio: 08/04 Fim:11/04  |                                                                                                                                        [Eric](https://github.com/eric-kingu)                                                                                                                                         |   Todos   |
+|      Heatmap do projeto      | Inicio: 08/04 Fim:11/04  |                                                                                                                                      [João Lobo](https://github.com/joaolobo10)                                                                                                                                      |   Todos   |
+|   Documentar app escolhido   | Inicio: 08/04 Fim:11/04  |                                                                                                                                      [Maria Eduarda](https://github.com/maaduh)                                                                                                                                      |   Todos   |
+| Seleção de apps individuais  | Inicio: 08/04 Fim:11/04  | [João Lobo](https://github.com/joaolobo10) ,[Giovana Barbosa ](https://github.com/gio221) ,[Maria Eduarda](https://github.com/maaduh),[Luiz Bessa](https://github.com/lfelipebessa) ,[Gabriel Dantas](https://github.com/gbevi),[Eric](https://github.com/eric-kingu),[Pedro Tulio](https://github.com/PedrooCamilo) |   Todos   |
+|         Rich Picture         | Inicio: 08/04 Fim:11/04  | [João Lobo](https://github.com/joaolobo10) ,[Giovana Barbosa ](https://github.com/gio221) ,[Maria Eduarda](https://github.com/maaduh),[Luiz Bessa](https://github.com/lfelipebessa) ,[Gabriel Dantas](https://github.com/gbevi),[Eric](https://github.com/eric-kingu),[Pedro Tulio](https://github.com/PedrooCamilo) |   Todos   |
+| copia do termo de uso do app | Inicio: 08/04 Fim:11/04  |                                                                                                                                      [Gabriel Dantas](https://github.com/gbevi)                                                                                                                                      |   Todos   |
+|      Montar cronograma       | Inicio: 08/04 Fim:11/04  |                                                                                                                                    [Giovana Barbosa ](https://github.com/gio221)                                                                                                                                     |   Todos   |
+|     Responder perguntas      | Inicio: 11/04 Fim: 11/04 | [João Lobo](https://github.com/joaolobo10) ,[Giovana Barbosa ](https://github.com/gio221) ,[Maria Eduarda](https://github.com/maaduh),[Luiz Bessa](https://github.com/lfelipebessa) ,[Gabriel Dantas](https://github.com/gbevi),[Eric](https://github.com/eric-kingu),[Pedro Tulio](https://github.com/PedrooCamilo) |   Todos   |
+| Grava Video da Apresentação  | Inicio: 11/04 Fim: 13/04 | [João Lobo](https://github.com/joaolobo10) ,[Giovana Barbosa ](https://github.com/gio221) ,[Maria Eduarda](https://github.com/maaduh),[Luiz Bessa](https://github.com/lfelipebessa) ,[Gabriel Dantas](https://github.com/gbevi),[Eric](https://github.com/eric-kingu),[Pedro Tulio](https://github.com/PedrooCamilo) |   Todos   |
+|     Correção pós entrega     | Inicio: 15/04 Fim: 18/04 | [João Lobo](https://github.com/joaolobo10) ,[Giovana Barbosa ](https://github.com/gio221) ,[Maria Eduarda](https://github.com/maaduh),[Luiz Bessa](https://github.com/lfelipebessa) ,[Gabriel Dantas](https://github.com/gbevi),[Eric](https://github.com/eric-kingu),[Pedro Tulio](https://github.com/PedrooCamilo) |   Todos   |
+
+<font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa ](https://github.com/gio221), 2025.</p></font>
 
 ## Inspeção da Entrega da apresentação do projeto etapa 1 do Grupo +1
 
 ### Executado
-    Esta tabela descreve as atividades executadas da etapa da inspeção 1
 
-| Atividade       | Desenvolvimento | Responsável                                 | Revisores | 
-| :--------: | :----: | :--------------------:                    | :---------------: |
-| Montar git pages |  Inicio:05/04 Fim:05/04   | [João Lobo](https://github.com/joaolobo10)  | Todos |
-| Documentar Equipe |  Inicio: 08/04 Fim:11/04   |[Pedro Tulio](https://github.com/PedrooCamilo) | Todos |
-| Ferramentas do Projeto | Inicio: 08/04 Fim:11/04     |[Eric](https://github.com/eric-kingu)  | Todos|
-| Heatmap do projeto |  Inicio: 08/04 Fim:11/04   | [João Lobo](https://github.com/joaolobo10) | Todos |
-| Documentar app escolhido|  Inicio: 08/04 Fim:11/04     | [Maria Eduarda](https://github.com/maaduh)  |  Todos|
-| Seleção de apps individuais |  Inicio: 08/04 Fim:11/04    | [João Lobo](https://github.com/joaolobo10) ,[Giovana Barbosa ](https://github.com/gio221) ,[Maria Eduarda](https://github.com/maaduh),[Luiz Bessa](https://github.com/lfelipebessa) ,[Gabriel Dantas](https://github.com/gbevi),[Eric](https://github.com/eric-kingu),[Pedro Tulio](https://github.com/PedrooCamilo)  | Todos|
-| Rich Picture |  Inicio: 08/04 Fim:11/04    | [João Lobo](https://github.com/joaolobo10) ,[Giovana Barbosa ](https://github.com/gio221) ,[Maria Eduarda](https://github.com/maaduh),[Luiz Bessa](https://github.com/lfelipebessa) ,[Gabriel Dantas](https://github.com/gbevi),[Eric](https://github.com/eric-kingu),[Pedro Tulio](https://github.com/PedrooCamilo)  | Todos|
-| copia do termo de uso do app |  Inicio: 08/04 Fim:11/04    | [Gabriel Dantas](https://github.com/gbevi) | Todos|
-| Montar cronograma |  Inicio: 08/04 Fim:11/04    |[Giovana Barbosa ](https://github.com/gio221)  | Todos|
-| Responder perguntas |  Inicio: 11/04 Fim: 11/04  |[João Lobo](https://github.com/joaolobo10) ,[Giovana Barbosa ](https://github.com/gio221) ,[Maria Eduarda](https://github.com/maaduh),[Luiz Bessa](https://github.com/lfelipebessa) ,[Gabriel Dantas](https://github.com/gbevi),[Eric](https://github.com/eric-kingu),[Pedro Tulio](https://github.com/PedrooCamilo) | Todos|
-| Grava Video da Apresentação |  Inicio: 13/04 Fim: 14/04  | [João Lobo](https://github.com/joaolobo10) ,[Giovana Barbosa ](https://github.com/gio221) ,[Maria Eduarda](https://github.com/maaduh),[Luiz Bessa](https://github.com/lfelipebessa) ,[Gabriel Dantas](https://github.com/gbevi),[Eric](https://github.com/eric-kingu),[Pedro Tulio](https://github.com/PedrooCamilo)  | Todos|
-| Correção pós entrega   |  Inicio: 14/04 Fim: 18/04  | [João Lobo](https://github.com/joaolobo10) ,[Giovana Barbosa ](https://github.com/gio221) ,[Maria Eduarda](https://github.com/maaduh),[Luiz Bessa](https://github.com/lfelipebessa) ,[Gabriel Dantas](https://github.com/gbevi),[Eric](https://github.com/eric-kingu),[Pedro Tulio](https://github.com/PedrooCamilo)    | Todos|
+- A tabela 1 descreve as atividades executadas da etapa da inspeção 1.
 
-<center>Fonte: [Giovana Barbosa ](https://github.com/gio221)</center>
+<font size="3"><p style="text-align: center">**Tabela 2 -** Atividades executadas da etapa da inspeção 1</p></font>
+
+|          Atividade           |     Desenvolvimento      |                                                                                                                                                     Responsável                                                                                                                                                      | Revisores |
+| :--------------------------: | :----------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------: |
+|       Montar git pages       |  Inicio:05/04 Fim:05/04  |                                                                                                                                      [João Lobo](https://github.com/joaolobo10)                                                                                                                                      |   Todos   |
+|      Documentar Equipe       | Inicio: 08/04 Fim:11/04  |                                                                                                                                    [Pedro Tulio](https://github.com/PedrooCamilo)                                                                                                                                    |   Todos   |
+|    Ferramentas do Projeto    | Inicio: 08/04 Fim:11/04  |                                                                                                                                        [Eric](https://github.com/eric-kingu)                                                                                                                                         |   Todos   |
+|      Heatmap do projeto      | Inicio: 08/04 Fim:11/04  |                                                                                                                                      [João Lobo](https://github.com/joaolobo10)                                                                                                                                      |   Todos   |
+|   Documentar app escolhido   | Inicio: 08/04 Fim:11/04  |                                                                                                                                      [Maria Eduarda](https://github.com/maaduh)                                                                                                                                      |   Todos   |
+| Seleção de apps individuais  | Inicio: 08/04 Fim:11/04  | [João Lobo](https://github.com/joaolobo10) ,[Giovana Barbosa ](https://github.com/gio221) ,[Maria Eduarda](https://github.com/maaduh),[Luiz Bessa](https://github.com/lfelipebessa) ,[Gabriel Dantas](https://github.com/gbevi),[Eric](https://github.com/eric-kingu),[Pedro Tulio](https://github.com/PedrooCamilo) |   Todos   |
+|         Rich Picture         | Inicio: 08/04 Fim:11/04  | [João Lobo](https://github.com/joaolobo10) ,[Giovana Barbosa ](https://github.com/gio221) ,[Maria Eduarda](https://github.com/maaduh),[Luiz Bessa](https://github.com/lfelipebessa) ,[Gabriel Dantas](https://github.com/gbevi),[Eric](https://github.com/eric-kingu),[Pedro Tulio](https://github.com/PedrooCamilo) |   Todos   |
+| copia do termo de uso do app | Inicio: 08/04 Fim:11/04  |                                                                                                                                      [Gabriel Dantas](https://github.com/gbevi)                                                                                                                                      |   Todos   |
+|      Montar cronograma       | Inicio: 08/04 Fim:11/04  |                                                                                                                                    [Giovana Barbosa ](https://github.com/gio221)                                                                                                                                     |   Todos   |
+|     Responder perguntas      | Inicio: 11/04 Fim: 11/04 | [João Lobo](https://github.com/joaolobo10) ,[Giovana Barbosa ](https://github.com/gio221) ,[Maria Eduarda](https://github.com/maaduh),[Luiz Bessa](https://github.com/lfelipebessa) ,[Gabriel Dantas](https://github.com/gbevi),[Eric](https://github.com/eric-kingu),[Pedro Tulio](https://github.com/PedrooCamilo) |   Todos   |
+| Grava Video da Apresentação  | Inicio: 13/04 Fim: 14/04 | [João Lobo](https://github.com/joaolobo10) ,[Giovana Barbosa ](https://github.com/gio221) ,[Maria Eduarda](https://github.com/maaduh),[Luiz Bessa](https://github.com/lfelipebessa) ,[Gabriel Dantas](https://github.com/gbevi),[Eric](https://github.com/eric-kingu),[Pedro Tulio](https://github.com/PedrooCamilo) |   Todos   |
+|     Correção pós entrega     | Inicio: 14/04 Fim: 18/04 | [João Lobo](https://github.com/joaolobo10) ,[Giovana Barbosa ](https://github.com/gio221) ,[Maria Eduarda](https://github.com/maaduh),[Luiz Bessa](https://github.com/lfelipebessa) ,[Gabriel Dantas](https://github.com/gbevi),[Eric](https://github.com/eric-kingu),[Pedro Tulio](https://github.com/PedrooCamilo) |   Todos   |
+
+<font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa ](https://github.com/gio221), 2025.</p></font>
 
 ## Histórico de versão
-      Tabela que descreve o Histórico de Versões
 
-| Versão |    Data    |       Descrição        |                   Autor                    | Revisor |
-| :----: | :--------: | :--------------------: | :----------------------------------------: | :-----: |
-|  1.0   | 11/04/2025 | Início da documentação |    [Giovana Barbosa](https://github.com/gio221)    | |
-|  1.1   | 11/04/2025 | Cronograma executado etapa 1     |    [Giovana Barbosa](https://github.com/gio221)    | |
+| Versão |    Data    |          Descrição           |                    Autor                     |                  Revisor                   |
+| :----: | :--------: | :--------------------------: | :------------------------------------------: | :----------------------------------------: |
+|  1.0   | 11/04/2025 |    Início da documentação    | [Giovana Barbosa](https://github.com/gio221) | [João Lobo](https://github.com/joaolobo10) |
+|  1.1   | 11/04/2025 | Cronograma executado etapa 1 | [Giovana Barbosa](https://github.com/gio221) | [João Lobo](https://github.com/joaolobo10) |
