@@ -12,7 +12,7 @@ A tabela 1 descreve o integrante que fez a avaliação, e o app que avaliou.
 | [Gabriel Dantas](https://github.com/gbevi)         |         |
 | [Giovana Silva](https://github.com/gio221)         | [Sou.gov](#sou.gov) |
 | [João Lobo](https://github.com/joaolobo10)         |         |
-| [Luiz Bessa](https://github.com/lfelipebessa)      |         |
+| [Luiz Bessa](https://github.com/lfelipebessa)      |[e-Título](#e-Título)|
 | [Maria Eduarda](https://github.com/maaduh)         |         |
 | [Pedro Tulio](https://github.com/PedrooCamilo)     |         |
 
@@ -36,8 +36,23 @@ A integrante responsável por avaliar o Sou.gov foi a Giovana Barbosa. O Rich Pi
 </div>
 </center>
 
+<br>
+
+## e-Título
+O integrante responsável por avaliar o e-Título foi o Luiz Felipe Bessa. O Rich Picture é esse apresentado na Figura 2
+
+<center>
+![Sou.gov](../assets/Rich-picture/e-titulo.png){ width=70% }
+<div align="center" >
+    <p> Figura 2: Imagem Rich Picture do app e-Título. Fonte: Rich Picture(Autoria Própria)
+    </p> 
+</div>
+</center>
+
+
 ## Bibliografia
 > Aplicativo do Sou.gov. Disponível em: Apple Store. Acesso em: 07 abr 2024.
+> Aplicativo do e-Título. Disponível em: Apple Store. Acesso em: 08 abr 2024.
 
 ## Histórico de versão
       Tabela que descreve o Histórico de Versões
@@ -45,3 +60,4 @@ A integrante responsável por avaliar o Sou.gov foi a Giovana Barbosa. O Rich Pi
 | :----: | :--------: | :--------------------: | :----------------------------------------: | :-----: |
 |  1.0   | 10/04/2025 | Início da documentação |  [Giovana Barbosa ](https://github.com/gio221) |         |
 |  1.0   | 11/04/2025 | App sou.gov |  [Giovana Barbosa ](https://github.com/gio221) |         |
+|  1.0   | 11/04/2025 | App e-Título |  [Luiz Bessa](https://github.com/lfelipebessa) |         |
