@@ -43,6 +43,8 @@ nav:
   - Atas das Reuniões:
       - Reunião 1 - 04/04/2025: atas-reuniao/ata-1.md
       - Reunião 2 - 08/04/2025: atas-reuniao/ata-2.md
+  - Apresentações:
+      - Apresentação 1: Apresentações/Apresentção1.md
   - Planejamento:
       - Aplicativos Avaliados: planejamento/apps-avaliados.md
       - Aplicativo Selecionado: planejamento/AplicativoSelecionado.md
@@ -50,3 +52,4 @@ nav:
       - Cronograma: planejamento/cronograma.md
       - Metodologia: planejamento/metodologia.md
       - Rich Pictures: planejamento/Rich-picture.md
+  
