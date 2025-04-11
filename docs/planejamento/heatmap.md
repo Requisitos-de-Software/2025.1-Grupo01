@@ -29,7 +29,7 @@ Para agilizar a identificação da disponibilidade dos membros da equipe, criamo
 Com base nas informações da tabela acima, definimos que os encontros serão idealmente realizados às sextas-ferias às 13h. Caso seja necessário, encontros às terças-feiras também podem ser realizados, considerando a necessidade de aumentar a frequência de reuniões durante a semana. Esses horários são os mais adequados para a maioria dos integrantes do grupo, considerando suas disponibilidades e compromissos. Além disso, esses períodos nos proporcionam a oportunidade ideal para discutir assuntos relevantes ao nosso projeto.
 </p>
 
-## Bibliografia
+## Referências
 
 > 1. The complete guide to heatmaps. Disponível em: [https://contentsquare.com/guides/heatmaps/](https://contentsquare.com/guides/heatmaps/). Acesso em: 11 de abril de 2025.
 

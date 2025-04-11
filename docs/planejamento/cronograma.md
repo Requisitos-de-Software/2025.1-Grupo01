@@ -265,3 +265,4 @@ O cronograma em si não é uma metodologia de fato, mas sim uma ferramenta que u
 |  1.3   | 11/04/2025 |            Cronograma etapa 2 e inspeção da etapa 2            | [Giovana Barbosa](https://github.com/gio221) |                                              |
 |  1.4   | 11/04/2025 |        Cronograma etapa 3 e 4 e inspeção da etapa 3 e 4        | [Giovana Barbosa](https://github.com/gio221) |                                              |
 |  1.5   | 11/04/2025 | Cronograma etapa 5, 6 e final e inspeção da etapa 5, 6 e final | [Giovana Barbosa](https://github.com/gio221) |                                              |
+|  1.6   | 11/04/2025 |       Ajuste de títulos e legenda, deixando padronizado        |  [João Lobo](https://github.com/joaolobo10)  |                                              |

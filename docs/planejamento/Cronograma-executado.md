@@ -62,7 +62,8 @@ O cronograma em si não é uma metodologia de fato, mas sim uma ferramenta que u
 
 ## Histórico de versão
 
-| Versão |    Data    |          Descrição           |                    Autor                     |                  Revisor                   |
-| :----: | :--------: | :--------------------------: | :------------------------------------------: | :----------------------------------------: |
-|  1.0   | 11/04/2025 |    Início da documentação    | [Giovana Barbosa](https://github.com/gio221) | [João Lobo](https://github.com/joaolobo10) |
-|  1.1   | 11/04/2025 | Cronograma executado etapa 1 | [Giovana Barbosa](https://github.com/gio221) | [João Lobo](https://github.com/joaolobo10) |
+| Versão |    Data    |                     Descrição                     |                    Autor                     |                  Revisor                   |
+| :----: | :--------: | :-----------------------------------------------: | :------------------------------------------: | :----------------------------------------: |
+|  1.0   | 11/04/2025 |              Início da documentação               | [Giovana Barbosa](https://github.com/gio221) | [João Lobo](https://github.com/joaolobo10) |
+|  1.1   | 11/04/2025 |           Cronograma executado etapa 1            | [Giovana Barbosa](https://github.com/gio221) | [João Lobo](https://github.com/joaolobo10) |
+|  1.2   | 11/04/2025 | Ajuste de títulos e legenda, deixando padronizado |  [João Lobo](https://github.com/joaolobo10)  |                                            |

@@ -1,28 +1,36 @@
-# Início
+# Detran-DF
+
 <center>
 ![Detran-df](.\assets\Detran-df\DETRAN-DF.jpg){ width=50% }
-<div align="center" >
-    <p> Figura 1: Imagem do app Detran-DF . Fonte: App Detran DF
-    </p> 
-</div>
 </center>
+<font size="3"><p style="text-align: center">**Figura 1 -** Imagem do app Detran-DF. **Fonte:** App Detran DF</p></font>
 
 ## Sobre a disciplina
+
+<p align="justify">
 Este documento tem como objetivo armazenar as informações dos artefatos estudados pelo grupo 1 na disciplina Interação Humano Computador da Faculdade de Ciências e Tecnologias em Engenharia da Universidade de Brasília (FCTE-UnB) durante o 1º semestre de 2025, ministrada pelo professor André Barros.
+</p>
 
 ## O que é o Detran-DF?
-O aplicativo avaliado é o Detran DF (Departamento de Trânsito do Distrito Federal), ele foi desenvolvido com o objetivo de facilitar o acesso da população a diversos serviços relacionados ao trânsito, de forma prática, rápida e segura por meio do celular. Entre as funcionalidades oferecidas, algumas delas são:
 
-- Consulta de pontuação na CNH e informações da carteira de motorista; 
+<p align="justify">
+O aplicativo avaliado é o Detran DF (Departamento de Trânsito do Distrito Federal), ele foi desenvolvido com o objetivo de facilitar o acesso da população a diversos serviços relacionados ao trânsito, de forma prática, rápida e segura por meio do celular. Entre as funcionalidades oferecidas, algumas delas são:
+</p>
+
+- Consulta de pontuação na CNH e informações da carteira de motorista;
 - Acompanhamento de processos de habilitação;
 - Consulta de infrações e débitos de veículos;
 - Visualização de veículos cadastrados em seu nome;
 - Emissão de boletos de pagamento de multas e taxas;
 
 ## Porque o Detran-DF?
+
+<p align="justify">
 Ao analisar diferentes aplicativos públicos disponíveis, o aplicativo Detran-DF se destacou por ser o que melhor se enquadrou no escopo da disciplina, atendendo aos critérios de análise de usabilidade, acessibilidade e prestação de serviços ao cidadão. Além disso, por ser amplamente utilizado pela população do Distrito Federal, ele oferece uma base sólida para coletar feedbacks reais dos usuários, aumentando significativamente a possibilidade de obter respostas relevantes para o desenvolvimento do trabalho.
+</p>
 
 ## Contribuidores
+
 <table>
   <tr>
     <td align="center"><a href="https://github.com/eric-kingu"><img style="border-radius: 60%;" src="https://github.com/eric-kingu.png" width="200px;" alt=""/><br /><sub><b>Eric Akio Lages Nishimura</b></sub></a><br />
@@ -36,14 +44,13 @@ Ao analisar diferentes aplicativos públicos disponíveis, o aplicativo Detran-D
 </table>
 
 ## Referências
-DETRAN-DF. Departamento de Trânsito do Distrito Federal. Disponível em: [https://www.detran.df.gov.br/](https://www.detran.df.gov.br/). Acesso em: 11 abr. 2025.
 
-
+> 1. DETRAN-DF. Departamento de Trânsito do Distrito Federal. Disponível em: [https://www.detran.df.gov.br/](https://www.detran.df.gov.br/). Acesso em: 11 de abril de 2025.
 
 ## Histórico de versão
 
-| Versão |    Data    |       Descrição        |                   Autor                    | Revisor |
-| :----: | :--------: | :--------------------: | :----------------------------------------: | :-----: |
-|  1.0   | 08/04/2025 | Início da documentação | [João Lobo](https://github.com/joaolobo10) |         |
-|  1.1   | 11/04/2025 | Desenvolvimento da documentação | [Pedro Camilo](https://github.com/PedrooCamilo) | |
-
+| Versão |    Data    |                            Descrição                            |                      Autor                      |                  Revisor                   |
+| :----: | :--------: | :-------------------------------------------------------------: | :---------------------------------------------: | :----------------------------------------: |
+|  1.0   | 08/04/2025 |                     Início da documentação                      |   [João Lobo](https://github.com/joaolobo10)    |                                            |
+|  1.1   | 11/04/2025 |                 Desenvolvimento da documentação                 | [Pedro Camilo](https://github.com/PedrooCamilo) | [João Lobo](https://github.com/joaolobo10) |
+|  1.2   | 11/04/2025 | Padronizando as legendas, referências e,ajustes de alinhamentos |   [João Lobo](https://github.com/joaolobo10)    |                                            |
