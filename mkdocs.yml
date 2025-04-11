@@ -40,12 +40,13 @@ markdown_extensions:
 
 nav:
   - Início: index.md
+  - Atas das Reuniões:
+      - Reunião 1 - 04/04/2025: atas-reuniao/ata-1.md
+      - Reunião 2 - 08/04/2025: atas-reuniao/ata-2.md
   - Planejamento:
       - Aplicativos Avaliados: planejamento/apps-avaliados.md
       - Aplicativo Selecionado: planejamento/AplicativoSelecionado.md
       - Termo de uso: planejamento/termo-de-uso.md
       - Cronograma: planejamento/cronograma.md
       - Metodologia: planejamento/metodologia.md
-  - Atas das Reuniões:
-      - Reunião 1 - 04/04/2025: atas-reuniao/ata-1.md
-      - Reunião 2 - 08/04/2025: atas-reuniao/ata-2.md
+      - Rich Pictures: planejamento/Rich-picture.md
