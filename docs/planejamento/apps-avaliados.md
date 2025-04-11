@@ -12,7 +12,7 @@ A tabela 1 descreve o integrante que fez a avaliação, e o app que avaliou.
 | [Gabriel Dantas](https://github.com/gbevi)         |         |
 | [Giovana Silva](https://github.com/gio221)         | [Sou.gov](#sou.gov) |
 | [João Lobo](https://github.com/joaolobo10)         |         |
-| [Luiz Bessa](https://github.com/lfelipebessa)      |         |
+| [Luiz Bessa](https://github.com/lfelipebessa)      |[e-Título](#e-Título)         |
 | [Maria Eduarda](https://github.com/maaduh)         |         |
 | [Pedro Tulio](https://github.com/PedrooCamilo)     |         |
 
@@ -36,6 +36,14 @@ A integrante responsável por avaliar o Sou.gov foi a Giovana Barbosa. A avalia�
 </div>
 </center>
 
+## e-Título
+
+O integrante responsável por avaliar o e-Título foi o Luiz Felipe Bessa. A avaliação tinha como objetivo fazer o rich picture. Primeiro, foi verificado se o app possuía 7 funcionalidades, para que dessa forma fosse possível o grupo trabalhar em cima desse aplicativo, e depois foi verificado se o grupo teria acesso aos usuários desse app. Após isso, foi desenvolvido o rich picture.
+
+| ![Figura 1](../assets/Apps-avaliados/e-Titulo1.jpg) {width=300} | ![Figura 2](../assets/Apps-avaliados/e-Titulo2.PNG) {width=300} |
+|:--:|:--:|
+| **Figura 1**: Imagem da página inicial do app e-Título. Fonte: App e-Título | **Figura 2**: Imagem de outras funcionalidades do app e-Título. Fonte: App e-Título |
+
 ## Bibliografia
 > Aplicativo do Sou.gov. Disponível em: Apple Store. Acesso em: 07 abr 2024.
 
@@ -45,3 +53,4 @@ A integrante responsável por avaliar o Sou.gov foi a Giovana Barbosa. A avalia�
 | :----: | :--------: | :--------------------: | :----------------------------------------: | :-----: |
 |  1.0   | 10/04/2025 | Início da documentação |  [Giovana Barbosa ](https://github.com/gio221) |         |
 |  1.0   | 11/04/2025 | App sou.gov |  [Giovana Barbosa ](https://github.com/gio221) |         |
+|  1.0   | 11/04/2025 | App e-Título |  [Luiz Bessa ](https://github.com/lfelipebessa) |         |
