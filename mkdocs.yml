@@ -41,6 +41,7 @@ markdown_extensions:
 nav:
   - Início: index.md
   - Planejamento:
+      - Aplicativos Avaliados: planejamento/apps-avaliados.md
       - Aplicativo Selecionado: planejamento/AplicativoSelecionado.md
       - Termo de uso: planejamento/termo-de-uso.md
       - Cronograma: planejamento/cronograma.md
