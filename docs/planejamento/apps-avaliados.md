@@ -12,7 +12,7 @@ A **tabela 1** descreve o integrante que fez a avaliação, e o app que avaliou.
 | Integrante                                     | Site Avaliado         |
 | ---------------------------------------------- | --------------------- |
 | [Gabriel Dantas](https://github.com/gbevi)     |  [DetranDF](#detrandf)                     |
-| [Giovana Silva](https://github.com/gio221)     | [Sou.gov](#sou.gov)   |
+| [Giovana Silva](https://github.com/gio221)     | [Sou.gov](#Sou.gov)   |
 | [João Lobo](https://github.com/joaolobo10)     | [Metrô-DF](#Metrô-DF) |
 | [Luiz Bessa](https://github.com/lfelipebessa)  | [e-Título](#e-Título) |
 | [Maria Eduarda](https://github.com/maaduh)     | [CNH DIGITAL](#CNHDigital)                      |
