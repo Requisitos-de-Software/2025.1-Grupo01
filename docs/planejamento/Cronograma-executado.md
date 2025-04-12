@@ -62,6 +62,10 @@ O cronograma em si não é uma metodologia de fato, mas sim uma ferramenta que u
 
 <font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa ](https://github.com/gio221), 2025.</p></font>
 
+## Bibliografia
+
+> 1.Plano de ensino Disponível em:[ Aprender 3 unb](https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf). Acesso em: 07 abr 2025.
+
 ## Histórico de versão
 
 | Versão |    Data    |                     Descrição                     |                    Autor                     |                  Revisor                   |
@@ -69,4 +73,4 @@ O cronograma em si não é uma metodologia de fato, mas sim uma ferramenta que u
 |  1.0   | 11/04/2025 |              Início da documentação               | [Giovana Barbosa](https://github.com/gio221) | [João Lobo](https://github.com/joaolobo10) |
 |  1.1   | 11/04/2025 |           Cronograma executado etapa 1            | [Giovana Barbosa](https://github.com/gio221) | [João Lobo](https://github.com/joaolobo10) |
 |  1.2   | 11/04/2025 | Ajuste de títulos e legenda, deixando padronizado |  [João Lobo](https://github.com/joaolobo10)  |     [Luiz Bessa](https://github.com/lfelipebessa)|
-|  1.3   | 11/04/2025 | Adição da Atividade de Metodologia  |  [Luiz Bessa](https://github.com/lfelipebessa)  |   
+|  1.3   | 11/04/2025 | Adição da Atividade de Metodologia  |  [Luiz Bessa](https://github.com/lfelipebessa)  | [Giovana Barbosa](https://github.com/gio221) |  

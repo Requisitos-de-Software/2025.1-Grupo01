@@ -12,7 +12,7 @@ A **tabela 1** descreve o integrante que fez a avaliação, e o app que avaliou.
 | Integrante                                     | Site Avaliado         |
 | ---------------------------------------------- | --------------------- |
 | [Gabriel Dantas](https://github.com/gbevi)     |  [DetranDF](#detrandf)                     |
-| [Giovana Silva](https://github.com/gio221)     | [Sou.gov](#sou.gov)   |
+| [Giovana Silva](https://github.com/gio221)     | [Sou.gov](#Sou.gov)   |
 | [João Lobo](https://github.com/joaolobo10)     | [Metrô-DF](#Metrô-DF) |
 | [Luiz Bessa](https://github.com/lfelipebessa)  | [e-Título](#e-Título) |
 | [Maria Eduarda](https://github.com/maaduh)     |                       |
@@ -120,4 +120,4 @@ Pedro Túlio Curvelo Camilo foi o responsável pela análise do aplicativo BRB M
 |  1.2   | 10/04/2025 |      App e-Título      | [Luiz Bessa ](https://github.com/lfelipebessa) | [João Lobo](https://github.com/joaolobo10) |
 |  1.3   | 11/04/2025 |      App Metrô-DF      |   [João Lobo](https://github.com/joaolobo10)   |       [Giovana Barbosa](https://github.com/gio221)                                      |
 |  1.4   | 12/04/2025 |      App DetranDF      |   [Gabriel Dantas](https://github.com/gbevi)   |             [Giovana Barbosa](https://github.com/gio221)                                |
-|  1.5   | 12/04/2025 |      App BRB Mobilidade      |  [Pedro Camilo](https://github.com/PedrooCamilo)   |          |
+|  1.5   | 12/04/2025 |      App BRB Mobilidade      |  [Pedro Camilo](https://github.com/PedrooCamilo)   |  [Giovana Barbosa ](https://github.com/gio221)         |
