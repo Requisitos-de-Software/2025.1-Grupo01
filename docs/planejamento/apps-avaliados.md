@@ -16,7 +16,7 @@ A **tabela 1** descreve o integrante que fez a avaliação, e o app que avaliou.
 | [João Lobo](https://github.com/joaolobo10)     | [Metrô-DF](#Metrô-DF) |
 | [Luiz Bessa](https://github.com/lfelipebessa)  | [e-Título](#e-Título) |
 | [Maria Eduarda](https://github.com/maaduh)     |                       |
-| [Pedro Tulio](https://github.com/PedrooCamilo) |                       |
+| [Pedro Tulio](https://github.com/PedrooCamilo) | [BRB Mobilidade](#BRBMobilidade)                      |
 
 <font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa ](https://github.com/gio221), 2025.</p></font>
 
@@ -42,7 +42,7 @@ Gabriel Dantas foi o responsável por avaliar o aplicativo DetranDF. O principal
 
 <center>
 
-|       ![Figura 4](../assets/Apps-avaliados/detrandf1.jpeg) {width=300}       |           ![Figura 5](../assets/Apps-avaliados/detrandf2.jpeg) {width=300}           |
+|       ![Figura 1](../assets/Apps-avaliados/detrandf1.jpeg) {width=300}       |           ![Figura 2](../assets/Apps-avaliados/detrandf2.jpeg) {width=300}           |
 | :-------------------------------------------------------------------------: | :---------------------------------------------------------------------------------: |
 | **Figura 1**: Imagem da página inicial do app DetranDF. Fonte: App DetranDF | **Figura 2**: Imagem de outras funcionalidades do app DetranDF. Fonte: App DetranDF |
 
@@ -56,7 +56,7 @@ A integrante responsável por avaliar o Sou.gov foi a Giovana Barbosa. A avalia�
 
 <center>
 ![Sou.gov](../assets/Apps-avaliados/Sou.gov.jpg){ width=50% }
-<font size="3"><p style="text-align: center">Figura 1: Imagem do app sou.gov. Fonte: App Sou.gov</p></font>
+<font size="3"><p style="text-align: center">Figura 3: Imagem do app sou.gov. Fonte: App Sou.gov</p></font>
 </center>
 
 ## Metrô
@@ -67,9 +67,9 @@ O integrante responsável por avaliar o Metrô-DF foi o João Lobo. A avaliaçã
 
 <center>
 
-|  ![Figura 2](../assets/Apps-avaliados/metrodf1.PNG) {width=300}   |  ![Figura 3](../assets/Apps-avaliados/metrodf2.jpg) {width=300}   |
+|  ![Figura 4](../assets/Apps-avaliados/metrodf1.PNG) {width=300}   |  ![Figura 5](../assets/Apps-avaliados/metrodf2.jpg) {width=300}   |
 | :---------------------------------------------------------------: | :---------------------------------------------------------------: |
-| **Figura 1**: Página inicial do app Metrô-DF. Fonte: App e-Título | **Figura 2**: Funcionalidade do app Metrô-DF. Fonte: App e-Título |
+| **Figura 4**: Página inicial do app Metrô-DF. Fonte: App e-Título | **Figura 5**: Funcionalidade do app Metrô-DF. Fonte: App e-Título |
 
 </center>
 
@@ -81,18 +81,35 @@ O integrante responsável por avaliar o e-Título foi o Luiz Felipe Bessa. A ava
 
 <center>
 
-|       ![Figura 4](../assets/Apps-avaliados/e-Titulo1.jpg) {width=300}       |           ![Figura 5](../assets/Apps-avaliados/e-Titulo2.PNG) {width=300}           |
+|       ![Figura 6](../assets/Apps-avaliados/e-Titulo1.jpg) {width=300}       |           ![Figura 7](../assets/Apps-avaliados/e-Titulo2.PNG) {width=300}           |
 | :-------------------------------------------------------------------------: | :---------------------------------------------------------------------------------: |
-| **Figura 1**: Imagem da página inicial do app e-Título. Fonte: App e-Título | **Figura 2**: Imagem de outras funcionalidades do app e-Título. Fonte: App e-Título |
+| **Figura 6**: Imagem da página inicial do app e-Título. Fonte: App e-Título | **Figura 7**: Imagem de outras funcionalidades do app e-Título. Fonte: App e-Título |
 
 </center>
+
+## BRBMobilidade
+
+<p align="justify">
+Pedro Túlio Curvelo Camilo foi o responsável pela análise do aplicativo BRB Mobilidade. A principal finalidade dessa avaliação foi a construção do rich picture. Primeiramente, foi examinado se o aplicativo oferecia pelo menos sete funcionalidades, critério essencial para que pudesse ser utilizado como referência no desenvolvimento do trabalho. Em seguida, avaliou-se a viabilidade de acesso aos usuários da plataforma. Com ambos os requisitos atendidos, foi possível dar continuidade à elaboração do trabalho.
+</p>
+
+<center>
+
+|       ![Figura 8](../assets/Apps-avaliados/brbMobilidade1.jpg) {width=300}       |           ![Figura 9](../assets/Apps-avaliados/brbMobilidade2.jpg) {width=300}           |
+| :-------------------------------------------------------------------------: | :---------------------------------------------------------------------------------: |
+| **Figura 8**: Imagem da página inicial do app BRB Mobilidade. Fonte: App BRB Mobilidade | **Figura 9**: Imagem de outras funcionalidades do app BRB Mobilidade. Fonte: App BRB Mobilidade |
+
+</center>
+
+
 
 ## Bibliografia
 
 > 1. Aplicativo do Sou.gov. Disponível em: Apple Store. Acesso em: 07 abr 2025.
 > 2. Aplicativo do Metrô-DF. Disponível em: Apple Store. Acesso em: 10 abr 2025.
 > 3. Aplicativo do e-Título. Disponível em: Apple Store. Acesso em: 11 abr 2025.
-> 3. Aplicativo do DetranDF. Disponível em: Apple Store. Acesso em: 12 abr 2025.
+> 4. Aplicativo do DetranDF. Disponível em: Apple Store. Acesso em: 12 abr 2025.
+> 5. Aplicativo do BRB Mobilidade. Disponível em: Apple Store. Acesso em: 12 abr 2025.
 
 ## Histórico de versão
 
@@ -103,3 +120,4 @@ O integrante responsável por avaliar o e-Título foi o Luiz Felipe Bessa. A ava
 |  1.2   | 10/04/2025 |      App e-Título      | [Luiz Bessa ](https://github.com/lfelipebessa) | [João Lobo](https://github.com/joaolobo10) |
 |  1.3   | 11/04/2025 |      App Metrô-DF      |   [João Lobo](https://github.com/joaolobo10)   |       [Giovana Barbosa](https://github.com/gio221)                                      |
 |  1.4   | 12/04/2025 |      App DetranDF      |   [Gabriel Dantas](https://github.com/gbevi)   |             [Giovana Barbosa](https://github.com/gio221)                                |
+|  1.5   | 12/04/2025 |      App BRB Mobilidade      |  [Pedro Camilo](https://github.com/PedrooCamilo)   |          |
