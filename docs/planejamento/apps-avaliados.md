@@ -11,7 +11,6 @@ A **tabela 1** descreve o integrante que fez a avaliação, e o app que avaliou.
 
 | Integrante                                     | Site Avaliado         |
 | ---------------------------------------------- | --------------------- |
-| [Eric](https://github.com/eric-kingu)          |                       |
 | [Gabriel Dantas](https://github.com/gbevi)     |  [DetranDF](#detrandf)                     |
 | [Giovana Silva](https://github.com/gio221)     | [Sou.gov](#sou.gov)   |
 | [João Lobo](https://github.com/joaolobo10)     | [Metrô-DF](#Metrô-DF) |
