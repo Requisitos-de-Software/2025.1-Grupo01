@@ -30,4 +30,4 @@ Com uma interface intuitiva e funcionalidades acessíveis, o app é uma ferramen
 
 | Versão |    Data    |       Descrição        |                   Autor                    | Revisor |
 | :----: | :--------: | :--------------------: | :----------------------------------------: | :-----: |
-|  1.0   | 10/04/2025 | Início da documentação | [Maria Eduarda](https://github.com/maaduh) |         |
+|  1.0   | 10/04/2025 | Início da documentação | [Maria Eduarda](https://github.com/maaduh) |       [Giovana Barbosa](https://github.com/gio221)   |

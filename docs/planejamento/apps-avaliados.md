@@ -102,5 +102,5 @@ O integrante responsável por avaliar o e-Título foi o Luiz Felipe Bessa. A ava
 |  1.0   | 09/04/2025 | Início da documentação | [Giovana Barbosa ](https://github.com/gio221)  | [João Lobo](https://github.com/joaolobo10) |
 |  1.1   | 10/04/2025 |      App sou.gov       | [Giovana Barbosa ](https://github.com/gio221)  | [João Lobo](https://github.com/joaolobo10) |
 |  1.2   | 10/04/2025 |      App e-Título      | [Luiz Bessa ](https://github.com/lfelipebessa) | [João Lobo](https://github.com/joaolobo10) |
-|  1.3   | 11/04/2025 |      App Metrô-DF      |   [João Lobo](https://github.com/joaolobo10)   |                                            |
-|  1.4   | 12/04/2025 |      App DetranDF      |   [Gabriel Dantas](https://github.com/gbevi)   |                                            |
+|  1.3   | 11/04/2025 |      App Metrô-DF      |   [João Lobo](https://github.com/joaolobo10)   |       [Giovana Barbosa](https://github.com/gio221)                                      |
+|  1.4   | 12/04/2025 |      App DetranDF      |   [Gabriel Dantas](https://github.com/gbevi)   |             [Giovana Barbosa](https://github.com/gio221)                                |

@@ -75,7 +75,7 @@ O integrante responsável por avaliar o DetranDF foi o Gabriel Dantas. O Rich Pi
 
 | Versão |    Data    |       Descrição        |                     Autor                     | Revisor |
 | :----: | :--------: | :--------------------: | :-------------------------------------------: | :-----: |
-|  1.0   | 10/04/2025 | Início da documentação | [Giovana Barbosa ](https://github.com/gio221) |         |
-|  1.0   | 11/04/2025 |      App sou.gov       | [Giovana Barbosa ](https://github.com/gio221) |         |
-|  1.0   | 11/04/2025 |      App e-Título      | [Luiz Bessa](https://github.com/lfelipebessa) |         |
-|  1.0   | 11/04/2025 |      App DetranDF      |  [Gabriel Dantas](https://github.com/gbevi)   |         |
+|  1.0   | 10/04/2025 | Início da documentação | [Giovana Barbosa ](https://github.com/gio221) |      |
+|  1.0   | 11/04/2025 |      App sou.gov       | [Giovana Barbosa ](https://github.com/gio221) |   |
+|  1.0   | 11/04/2025 |      App e-Título      | [Luiz Bessa](https://github.com/lfelipebessa) |     [Giovana Barbosa](https://github.com/gio221)     |
+|  1.0   | 11/04/2025 |      App DetranDF      |  [Gabriel Dantas](https://github.com/gbevi)   |     [Giovana Barbosa](https://github.com/gio221)     |
