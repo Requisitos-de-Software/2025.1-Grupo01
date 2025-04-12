@@ -27,3 +27,9 @@ Tendo a finalidade de facilitar a organização e gerenciamento do planejamento 
 > <a id="#FRM4" href="anchor_4">4</a>. Microsoft Teams. Disponível em: [https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks](), acesso em 11 de abr. de 2025.
 > <a id="#FRM5" href="anchor_5">5</a>. MkDocs. Disponível em: [https://www.mkdocs.org](), acesso em 11 de abr. de 2025.
 > <a id="#FRM6" href="anchor_6">6</a>. YouTube. Disponível em: [https://www.youtube.com/howyoutubeworks/resources/brand-resources/#logos-icons-and-colors](), acesso em 11 de abr. de 2025.
+
+## Histórico de versões
+
+|Versão|Data|Descrição|Autor(es)|Revisor|
+|:----:|:--:|:-------:|:-------:|:-----:|
+|`1.0`|11/04/2025|Criação da página de ferramentas|[Eric Akio](https://github.com/eric-kingu)|   |
