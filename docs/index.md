@@ -8,7 +8,7 @@
 ## Sobre a disciplina
 
 <p align="justify">
-Este documento tem como objetivo armazenar as informações dos artefatos estudados pelo grupo 1 na disciplina Interação Humano Computador da Faculdade de Ciências e Tecnologias em Engenharia da Universidade de Brasília (FCTE-UnB) durante o 1º semestre de 2025, ministrada pelo professor André Barros.
+Este documento tem como objetivo armazenar as informações dos artefatos estudados pelo grupo 1 na disciplina Requisitos da Faculdade de Ciências e Tecnologias em Engenharia da Universidade de Brasília (FCTE-UnB) durante o 1º semestre de 2025, ministrada pelo professor André Barros.
 </p>
 
 ## O que é o Detran-DF?
