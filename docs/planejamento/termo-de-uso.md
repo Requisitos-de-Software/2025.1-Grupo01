@@ -17,6 +17,10 @@ Os termos de uso do aplicativo do Detran-DF não proíbem expressamente o estudo
 <figcaption align="center">Figura 5: Termo de uso pt.5 (Fonte: <a href="https://drive.google.com/file/d/1SWFORNsPLqo2_0Q9mXHZqrp-WmFwIMIN/view?usp=sharing" target="_blanck"> DetranDF - Termo de uso</a>, 2020)</figcaption>
 </center>
 
+## Bibliografia
+
+> <a id="#FRM1" href="anchor_1">1</a>. Google Drive. Disponível em: [https://drive.google.com/file/d/1SWFORNsPLqo2_0Q9mXHZqrp-WmFwIMIN/view?usp=sharing](https://drive.google.com/file/d/1SWFORNsPLqo2_0Q9mXHZqrp-WmFwIMIN/view?usp=sharing), acesso em 12 de abr. de 2025.
+
 ## Histórico de Versão
 
 | Versão |    Data    |             Descrição             |                   Autor                    |                  Revisor                   |

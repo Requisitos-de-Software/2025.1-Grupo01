@@ -34,4 +34,4 @@ Definimos que iamos fazer as gravações das reuniões e apresentações pelo Te
 
 | Versão |    Data    |          Descrição          |                    Autor                     | Revisor |
 | :----: | :--------: | :-------------------------: | :------------------------------------------: | :-----: |
-|  1.0   | 10/04/2025 | Criação da ATA no documento | [Giovana Barbosa](https://github.com/gio221) |         |
+|  1.0   | 10/04/2025 | Criação da ATA no documento | [Giovana Barbosa](https://github.com/gio221) | [Gabriel Dantas](https://github.com/gbevi)          |

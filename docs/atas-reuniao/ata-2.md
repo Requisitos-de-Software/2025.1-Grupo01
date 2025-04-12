@@ -44,4 +44,4 @@ Definimos que vamos estudar os requisitos do aplicativo do Detran-DF
 
 | Versão |    Data    |          Descrição          |                    Autor                     | Revisor |
 | :----: | :--------: | :-------------------------: | :------------------------------------------: | :-----: |
-|  1.0   | 10/04/2025 | Criação da ATA no documento | [Giovana Barbosa](https://github.com/gio221) |         |
+|  1.0   | 10/04/2025 | Criação da ATA no documento | [Giovana Barbosa](https://github.com/gio221) |   [Gabriel Dantas](https://github.com/gbevi)       |
