@@ -28,7 +28,7 @@ A metodologia utilizada foi o Rich Picture
 
 ## DetranDF
 
-O integrante responsável por avaliar o DetranDF foi o Gabriel Dantas. O Rich Picture é esse apresentado na Figura 3
+O integrante responsável por avaliar o DetranDF foi o Gabriel Dantas. O Rich Picture é esse apresentado na Figura 1
 
 <center>
 ![DetranDF](../assets/Rich-picture/DetranDF.png){ width=70% }
@@ -40,7 +40,7 @@ O integrante responsável por avaliar o DetranDF foi o Gabriel Dantas. O Rich Pi
 
 ## Sou.gov
 
-A integrante responsável por avaliar o Sou.gov foi a Giovana Barbosa. O Rich Picture é esse apresentado na Figura 1
+A integrante responsável por avaliar o Sou.gov foi a Giovana Barbosa. O Rich Picture é esse apresentado na Figura 2
 
 <center>
 ![Sou.gov](../assets/Rich-picture/Sou-gov.png){ width=50% }
@@ -54,6 +54,8 @@ A integrante responsável por avaliar o Sou.gov foi a Giovana Barbosa. O Rich Pi
 
 ## Metrô-DF
 
+O integrante responsável por avaliar o Metrô-DF foi o João Carlos Lobo. O Rich Picture é esse apresentado na Figura 3
+
 <center>
 ![Metrô-DF](../assets/Rich-picture/rich-picture-metrdf.jpg){ width=70% }
 <div align="center" >
@@ -64,7 +66,7 @@ A integrante responsável por avaliar o Sou.gov foi a Giovana Barbosa. O Rich Pi
 
 ## e-Título
 
-O integrante responsável por avaliar o e-Título foi o Luiz Felipe Bessa. O Rich Picture é esse apresentado na Figura 2
+O integrante responsável por avaliar o e-Título foi o Luiz Felipe Bessa. O Rich Picture é esse apresentado na Figura 4
 
 <center>
 ![Sou.gov](../assets/Rich-picture/e-titulo.png){ width=70% }
@@ -92,6 +94,7 @@ O integrante responsável por avaliar o BRB Mobilidade foi o Pedro Túlio Curvel
 > 2. Aplicativo do e-Título. Disponível em: Apple Store. Acesso em: 08 abr 2024.
 > 3. Aplicativo do DetranDF. Disponível em: Apple Store. Acesso em: 11 abr 2024.
 > 4. Aplicativo do BRB Mobilidade. Disponível em: Apple Store. Acesso em: 12 abr 2025.
+> 4. Aplicativo do Metrô-DF. Disponível em: Apple Store. Acesso em: 12 abr 2025.
 
 ## Histórico de versão
 
@@ -102,3 +105,4 @@ O integrante responsável por avaliar o BRB Mobilidade foi o Pedro Túlio Curvel
 |  1.2   | 11/04/2025 |      App e-Título      | [Luiz Bessa](https://github.com/lfelipebessa) |     [Giovana Barbosa](https://github.com/gio221)     |
 |  1.3   | 11/04/2025 |      App DetranDF      |  [Gabriel Dantas](https://github.com/gbevi)   |     [Giovana Barbosa](https://github.com/gio221)     |
 |  1.4   | 12/04/2025 |      App BRB Mobilidade      |  [Pedro Camilo](https://github.com/PedrooCamilo)   |          |
+|  1.5   | 12/04/2025 |      App Metrô-DF      |  [João Lobo](https://github.com/joaolobo10)   |          |

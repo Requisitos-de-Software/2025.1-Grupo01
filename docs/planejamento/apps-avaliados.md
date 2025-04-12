@@ -42,7 +42,7 @@ Gabriel Dantas foi o responsável por avaliar o aplicativo DetranDF. O principal
 
 <center>
 
-|       ![Figura 4](../assets/Apps-avaliados/detrandf1.jpeg) {width=300}       |           ![Figura 5](../assets/Apps-avaliados/detrandf2.jpeg) {width=300}           |
+|       ![Figura 1](../assets/Apps-avaliados/detrandf1.jpeg) {width=300}       |           ![Figura 2](../assets/Apps-avaliados/detrandf2.jpeg) {width=300}           |
 | :-------------------------------------------------------------------------: | :---------------------------------------------------------------------------------: |
 | **Figura 1**: Imagem da página inicial do app DetranDF. Fonte: App DetranDF | **Figura 2**: Imagem de outras funcionalidades do app DetranDF. Fonte: App DetranDF |
 
@@ -56,7 +56,7 @@ A integrante responsável por avaliar o Sou.gov foi a Giovana Barbosa. A avalia�
 
 <center>
 ![Sou.gov](../assets/Apps-avaliados/Sou.gov.jpg){ width=50% }
-<font size="3"><p style="text-align: center">Figura 1: Imagem do app sou.gov. Fonte: App Sou.gov</p></font>
+<font size="3"><p style="text-align: center">Figura 3: Imagem do app sou.gov. Fonte: App Sou.gov</p></font>
 </center>
 
 ## Metrô
@@ -67,9 +67,9 @@ O integrante responsável por avaliar o Metrô-DF foi o João Lobo. A avaliaçã
 
 <center>
 
-|  ![Figura 2](../assets/Apps-avaliados/metrodf1.PNG) {width=300}   |  ![Figura 3](../assets/Apps-avaliados/metrodf2.jpg) {width=300}   |
+|  ![Figura 4](../assets/Apps-avaliados/metrodf1.PNG) {width=300}   |  ![Figura 5](../assets/Apps-avaliados/metrodf2.jpg) {width=300}   |
 | :---------------------------------------------------------------: | :---------------------------------------------------------------: |
-| **Figura 1**: Página inicial do app Metrô-DF. Fonte: App e-Título | **Figura 2**: Funcionalidade do app Metrô-DF. Fonte: App e-Título |
+| **Figura 4**: Página inicial do app Metrô-DF. Fonte: App e-Título | **Figura 5**: Funcionalidade do app Metrô-DF. Fonte: App e-Título |
 
 </center>
 
@@ -81,9 +81,9 @@ O integrante responsável por avaliar o e-Título foi o Luiz Felipe Bessa. A ava
 
 <center>
 
-|       ![Figura 4](../assets/Apps-avaliados/e-Titulo1.jpg) {width=300}       |           ![Figura 5](../assets/Apps-avaliados/e-Titulo2.PNG) {width=300}           |
+|       ![Figura 6](../assets/Apps-avaliados/e-Titulo1.jpg) {width=300}       |           ![Figura 7](../assets/Apps-avaliados/e-Titulo2.PNG) {width=300}           |
 | :-------------------------------------------------------------------------: | :---------------------------------------------------------------------------------: |
-| **Figura 1**: Imagem da página inicial do app e-Título. Fonte: App e-Título | **Figura 2**: Imagem de outras funcionalidades do app e-Título. Fonte: App e-Título |
+| **Figura 6**: Imagem da página inicial do app e-Título. Fonte: App e-Título | **Figura 7**: Imagem de outras funcionalidades do app e-Título. Fonte: App e-Título |
 
 </center>
 
@@ -95,9 +95,9 @@ Pedro Túlio Curvelo Camilo foi o responsável pela análise do aplicativo BRB M
 
 <center>
 
-|       ![Figura 4](../assets/Apps-avaliados/brbMobilidade1.jpg) {width=300}       |           ![Figura 5](../assets/Apps-avaliados/brbMobilidade2.jpg) {width=300}           |
+|       ![Figura 8](../assets/Apps-avaliados/brbMobilidade1.jpg) {width=300}       |           ![Figura 9](../assets/Apps-avaliados/brbMobilidade2.jpg) {width=300}           |
 | :-------------------------------------------------------------------------: | :---------------------------------------------------------------------------------: |
-| **Figura 1**: Imagem da página inicial do app BRB Mobilidade. Fonte: App BRB Mobilidade | **Figura 2**: Imagem de outras funcionalidades do app BRB Mobilidade. Fonte: App BRB Mobilidade |
+| **Figura 8**: Imagem da página inicial do app BRB Mobilidade. Fonte: App BRB Mobilidade | **Figura 9**: Imagem de outras funcionalidades do app BRB Mobilidade. Fonte: App BRB Mobilidade |
 
 </center>
 
