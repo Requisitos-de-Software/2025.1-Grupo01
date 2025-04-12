@@ -35,6 +35,20 @@ A metodologia utilizada foi o Rich Picture
 
 <a id="sou,gov"></a>
 
+## DetranDF
+
+<p align="justify">
+Gabriel Dantas foi o responsável por avaliar o aplicativo DetranDF. O principal objetivo da avaliação era elaborar o rich picture. Inicialmente, verificou-se se o aplicativo possuía ao menos sete funcionalidades, o que permitiria ao grupo utilizá-lo como base para o trabalho. Em seguida, analisou-se se o grupo teria acesso aos usuários do app. Com esses critérios atendidos, o rich picture foi então desenvolvido.
+</p>
+
+<center>
+
+|       ![Figura 4](../assets/Apps-avaliados/detrandf1.jpeg) {width=300}       |           ![Figura 5](../assets/Apps-avaliados/detrandf2.jpeg) {width=300}           |
+| :-------------------------------------------------------------------------: | :---------------------------------------------------------------------------------: |
+| **Figura 1**: Imagem da página inicial do app DetranDF. Fonte: App DetranDF | **Figura 2**: Imagem de outras funcionalidades do app DetranDF. Fonte: App DetranDF |
+
+</center>
+
 ## Sou.gov
 
 <p align="justify">
@@ -71,20 +85,6 @@ O integrante responsável por avaliar o e-Título foi o Luiz Felipe Bessa. A ava
 |       ![Figura 4](../assets/Apps-avaliados/e-Titulo1.jpg) {width=300}       |           ![Figura 5](../assets/Apps-avaliados/e-Titulo2.PNG) {width=300}           |
 | :-------------------------------------------------------------------------: | :---------------------------------------------------------------------------------: |
 | **Figura 1**: Imagem da página inicial do app e-Título. Fonte: App e-Título | **Figura 2**: Imagem de outras funcionalidades do app e-Título. Fonte: App e-Título |
-
-</center>
-
-## DetranDF
-
-<p align="justify">
-Gabriel Dantas foi o responsável por avaliar o aplicativo DetranDF. O principal objetivo da avaliação era elaborar o rich picture. Inicialmente, verificou-se se o aplicativo possuía ao menos sete funcionalidades, o que permitiria ao grupo utilizá-lo como base para o trabalho. Em seguida, analisou-se se o grupo teria acesso aos usuários do app. Com esses critérios atendidos, o rich picture foi então desenvolvido.
-</p>
-
-<center>
-
-|       ![Figura 4](../assets/Apps-avaliados/detrandf1.jpeg) {width=300}       |           ![Figura 5](../assets/Apps-avaliados/detrandf2.jpeg) {width=300}           |
-| :-------------------------------------------------------------------------: | :---------------------------------------------------------------------------------: |
-| **Figura 1**: Imagem da página inicial do app DetranDF. Fonte: App e-Título | **Figura 2**: Imagem de outras funcionalidades do app DetranDF. Fonte: App DetranDF |
 
 </center>
 
