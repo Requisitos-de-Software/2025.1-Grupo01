@@ -65,6 +65,11 @@ Conforme solicitado pelo professor, implementaremos um processo de inspeção pa
 - **Inspeção por Colegas**: Durante a inspeção oficial, outra equipe analisará nosso projeto e fornecerá feedback construtivo.
 - **Acompanhamento**: As questões levantadas durante as inspeções serão registradas e abordadas nas Sprints subsequentes.
 
+## Referências
+
+- [Scrum.org - What is Scrum?](https://www.scrum.org/resources/what-is-scrum)
+- [Atlassian - What is scrum and how to get started](https://www.atlassian.com/agile/scrum)
+
 ## Histórico de Versão
 
 | Versão |    Data    |            Descrição             |                     Autor                     |                   Revisor                    |
