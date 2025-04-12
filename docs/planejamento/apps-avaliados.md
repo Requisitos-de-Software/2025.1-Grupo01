@@ -13,7 +13,7 @@ A tabela 1 descreve o integrante que fez a avaliação, e o app que avaliou.
 | [Giovana Silva](https://github.com/gio221)         | [Sou.gov](#sou.gov) |
 | [João Lobo](https://github.com/joaolobo10)         |         |
 | [Luiz Bessa](https://github.com/lfelipebessa)      |         |
-| [Maria Eduarda](https://github.com/maaduh)         |         |
+| [Maria Eduarda](https://github.com/maaduh)         | [CNH digital]        |
 | [Pedro Tulio](https://github.com/PedrooCamilo)     |         |
 
 </center>
@@ -36,8 +36,11 @@ A integrante responsável por avaliar o Sou.gov foi a Giovana Barbosa. A avalia�
 </div>
 </center>
 
+## CNH digital
+O aplicativo CNH Digital é uma forma prática e segura de ter a sua carteira de motorista sempre à mão, direto no celular. Ele permite acessar a versão digital da CNH com validade legal em todo o território nacional, sem precisar da versão impressa. Além disso, oferece funcionalidades como consulta de infrações, notificações de vencimento e acesso a outros documentos digitais, como o CRLV. Tudo isso com autenticação segura e integração com a conta Gov.br.
 ## Bibliografia
 > Aplicativo do Sou.gov. Disponível em: Apple Store. Acesso em: 07 abr 2024.
+> Aplicativo CNH Digital. Disponível em: Play Store. Acesso em: 12 abr 2025.
 
 ## Histórico de versão
       Tabela que descreve o Histórico de Versões
@@ -45,3 +48,4 @@ A integrante responsável por avaliar o Sou.gov foi a Giovana Barbosa. A avalia�
 | :----: | :--------: | :--------------------: | :----------------------------------------: | :-----: |
 |  1.0   | 10/04/2025 | Início da documentação |  [Giovana Barbosa ](https://github.com/gio221) |         |
 |  1.0   | 11/04/2025 | App sou.gov |  [Giovana Barbosa ](https://github.com/gio221) |         |
+|  1.0   | 12/04/2025 | App CNH digital | [Maria Eduarda](https://github.com/maaduh) |         |
