@@ -12,7 +12,7 @@ A **tabela 1** descreve o integrante que fez a avaliação, e o app que avaliou.
 | Integrante                                     | Site Avaliado         |
 | ---------------------------------------------- | --------------------- |
 | [Eric](https://github.com/eric-kingu)          |                       |
-| [Gabriel Dantas](https://github.com/gbevi)     |                       |
+| [Gabriel Dantas](https://github.com/gbevi)     |  [DetranDF](#detrandf)                     |
 | [Giovana Silva](https://github.com/gio221)     | [Sou.gov](#sou.gov)   |
 | [João Lobo](https://github.com/joaolobo10)     | [Metrô-DF](#Metrô-DF) |
 | [Luiz Bessa](https://github.com/lfelipebessa)  | [e-Título](#e-Título) |
@@ -74,11 +74,26 @@ O integrante responsável por avaliar o e-Título foi o Luiz Felipe Bessa. A ava
 
 </center>
 
+## DetranDF
+
+<p align="justify">
+Gabriel Dantas foi o responsável por avaliar o aplicativo DetranDF. O principal objetivo da avaliação era elaborar o rich picture. Inicialmente, verificou-se se o aplicativo possuía ao menos sete funcionalidades, o que permitiria ao grupo utilizá-lo como base para o trabalho. Em seguida, analisou-se se o grupo teria acesso aos usuários do app. Com esses critérios atendidos, o rich picture foi então desenvolvido.
+</p>
+
+<center>
+
+|       ![Figura 4](../assets/Apps-avaliados/detrandf1.jpeg) {width=300}       |           ![Figura 5](../assets/Apps-avaliados/detrandf2.jpeg) {width=300}           |
+| :-------------------------------------------------------------------------: | :---------------------------------------------------------------------------------: |
+| **Figura 1**: Imagem da página inicial do app DetranDF. Fonte: App e-Título | **Figura 2**: Imagem de outras funcionalidades do app DetranDF. Fonte: App DetranDF |
+
+</center>
+
 ## Bibliografia
 
 > 1. Aplicativo do Sou.gov. Disponível em: Apple Store. Acesso em: 07 abr 2025.
 > 2. Aplicativo do Metrô-DF. Disponível em: Apple Store. Acesso em: 10 abr 2025.
 > 3. Aplicativo do e-Título. Disponível em: Apple Store. Acesso em: 11 abr 2025.
+> 3. Aplicativo do DetranDF. Disponível em: Apple Store. Acesso em: 12 abr 2025.
 
 ## Histórico de versão
 
@@ -88,3 +103,4 @@ O integrante responsável por avaliar o e-Título foi o Luiz Felipe Bessa. A ava
 |  1.1   | 10/04/2025 |      App sou.gov       | [Giovana Barbosa ](https://github.com/gio221)  | [João Lobo](https://github.com/joaolobo10) |
 |  1.2   | 10/04/2025 |      App e-Título      | [Luiz Bessa ](https://github.com/lfelipebessa) | [João Lobo](https://github.com/joaolobo10) |
 |  1.3   | 11/04/2025 |      App Metrô-DF      |   [João Lobo](https://github.com/joaolobo10)   |                                            |
+|  1.4   | 12/04/2025 |      App DetranDF      |   [Gabriel Dantas](https://github.com/gbevi)   |                                            |
