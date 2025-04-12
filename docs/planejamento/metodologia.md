@@ -75,5 +75,6 @@ Conforme solicitado pelo professor, implementaremos um processo de inspeção pa
 | Versão |    Data    |            Descrição             |                     Autor                     |                   Revisor                    |
 | :----: | :--------: | :------------------------------: | :-------------------------------------------: | :------------------------------------------: |
 |  1.0   | 09/04/2025 | Criação da página de metodologia | [Luiz Bessa](https://github.com/lfelipebessa) | [Giovana Barbosa](https://github.com/gio221) |
-|  1.0   | 09/04/2025 | Criação da página de metodologia | [Luiz Bessa](https://github.com/lfelipebessa) |   [Giovana Barbosa](https://github.com/gio221)|
-|  1.0   | 11/04/2025 | Correção das informações referentes à metodologia | [Luiz Bessa](https://github.com/lfelipebessa) |  [Giovana Barbosa](https://github.com/gio221)|
+|  1.1   | 09/04/2025 | Criação da página de metodologia | [Luiz Bessa](https://github.com/lfelipebessa) |   [Giovana Barbosa](https://github.com/gio221)|
+|  1.2   | 11/04/2025 | Correção das informações referentes à metodologia | [Luiz Bessa](https://github.com/lfelipebessa) |  [Giovana Barbosa](https://github.com/gio221)|
+|  1.3   | 12/04/2025 | Adicionando referências | [Luiz Bessa](https://github.com/lfelipebessa) |  |
