@@ -36,4 +36,4 @@ O aplicativo DetranDF foi escolhido a partir de uma análise comparativa entre c
 | Versão |    Data    |       Descrição        |                   Autor                    | Revisor |
 | :----: | :--------: | :--------------------: | :----------------------------------------: | :-----: |
 |  1.0   | 10/04/2025 | Início da documentação | [Maria Eduarda](https://github.com/maaduh) |       [Giovana Barbosa](https://github.com/gio221)   |
-|  1.1   | 12/04/2025 | Critérios de escolha | [Maria Eduarda](https://github.com/maaduh) |          |
+|  1.1   | 12/04/2025 | Critérios de escolha | [Maria Eduarda](https://github.com/maaduh) |   [João Lobo](https://github.com/joaolobo10)       |
