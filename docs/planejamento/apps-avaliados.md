@@ -30,7 +30,7 @@ O objetivo deste documento é relatar a avaliação dos apps feitos para a escol
 
 ## Metodologia
 
-A metodologia utilizada foi o Rich Picture
+A metodologia utilizada foi o Rich Picture.
 
 <a id="sou,gov"></a>
 
@@ -44,7 +44,7 @@ Gabriel Dantas foi o responsável por avaliar o aplicativo DetranDF. O principal
 
 |       ![Figura 1](../assets/Apps-avaliados/detrandf1.jpeg) {width=300}       |           ![Figura 2](../assets/Apps-avaliados/detrandf2.jpeg) {width=300}           |
 | :-------------------------------------------------------------------------: | :---------------------------------------------------------------------------------: |
-| **Figura 1**: Imagem da página inicial do app DetranDF. Fonte: App DetranDF | **Figura 2**: Imagem de outras funcionalidades do app DetranDF. Fonte: App DetranDF |
+| **Figura 1**: Imagem da página inicial do app DetranDF. **Fonte:** App DetranDF | **Figura 2**: Imagem de outras funcionalidades do app DetranDF. **Fonte:** App DetranDF |
 
 </center>
 
@@ -56,10 +56,10 @@ A integrante responsável por avaliar o Sou.gov foi a Giovana Barbosa. A avalia�
 
 <center>
 ![Sou.gov](../assets/Apps-avaliados/Sou.gov.jpg){ width=50% }
-<font size="3"><p style="text-align: center">Figura 3: Imagem do app sou.gov. Fonte: App Sou.gov</p></font>
+<font size="3"><p style="text-align: center">Figura 3: Imagem do app sou.gov. **Fonte:** App Sou.gov</p></font>
 </center>
 
-## Metrô
+## Metrô-DF
 
 <p align="justify">
 O integrante responsável por avaliar o Metrô-DF foi o João Lobo. A avaliação tinha como objetivo fazer o rich picture, primeiro verifiquei se o aplicativo tinha 7 funcionalidades, para que fosse possível ser utilizado pelo grupo. Após isso verifiquei se era possível ter acesso a usuários do aplicativo. E por fim, desenvolvi o Rich picture do app Metrô-DF.
@@ -69,7 +69,7 @@ O integrante responsável por avaliar o Metrô-DF foi o João Lobo. A avaliaçã
 
 |  ![Figura 4](../assets/Apps-avaliados/metrodf1.PNG) {width=300}   |  ![Figura 5](../assets/Apps-avaliados/metrodf2.jpg) {width=300}   |
 | :---------------------------------------------------------------: | :---------------------------------------------------------------: |
-| **Figura 4**: Página inicial do app Metrô-DF. Fonte: App e-Título | **Figura 5**: Funcionalidade do app Metrô-DF. Fonte: App e-Título |
+| **Figura 4**: Página inicial do app Metrô-DF. **Fonte:** App Metrô-DF | **Figura 5**: Funcionalidade do app Metrô-DF. **Fonte:** App Metrô-DF |
 
 </center>
 
@@ -83,9 +83,17 @@ O integrante responsável por avaliar o e-Título foi o Luiz Felipe Bessa. A ava
 
 |       ![Figura 6](../assets/Apps-avaliados/e-Titulo1.jpg) {width=300}       |           ![Figura 7](../assets/Apps-avaliados/e-Titulo2.PNG) {width=300}           |
 | :-------------------------------------------------------------------------: | :---------------------------------------------------------------------------------: |
-| **Figura 6**: Imagem da página inicial do app e-Título. Fonte: App e-Título | **Figura 7**: Imagem de outras funcionalidades do app e-Título. Fonte: App e-Título |
+| **Figura 6**: Imagem da página inicial do app e-Título. **Fonte:** App e-Título | **Figura 7**: Imagem de outras funcionalidades do app e-Título. **Fonte:** App e-Título |
 
 </center>
+
+## CNHDigital
+<p align="justify"> Maria Eduarda foi a responsável pela análise do aplicativo CNH Digital. O principal objetivo da avaliação foi verificar se o aplicativo poderia ser utilizado como referência no desenvolvimento do trabalho, a partir da construção do rich picture. Primeiramente, analisou-se se o aplicativo apresentava pelo menos sete funcionalidades, critério considerado fundamental. Também foi avaliada a acessibilidade da plataforma aos usuários. Com esses dois critérios devidamente atendidos, a aplicação foi considerada viável para prosseguir com o estudo. </p> 
+<center>
+
+![Figura 10](../assets/Apps-avaliados/CNHDigital.jpg){ width=50% }
+
+<font size="3"><p style="text-align: center">**Figura 10**: Imagem da página principal do app CNH Digital. **Fonte:** app CNH Digital</p></font>
 
 ## BRBMobilidade
 
@@ -97,16 +105,9 @@ Pedro Túlio Curvelo Camilo foi o responsável pela análise do aplicativo BRB M
 
 |       ![Figura 8](../assets/Apps-avaliados/brbMobilidade1.jpg) {width=300}       |           ![Figura 9](../assets/Apps-avaliados/brbMobilidade2.jpg) {width=300}           |
 | :-------------------------------------------------------------------------: | :---------------------------------------------------------------------------------: |
-| **Figura 8**: Imagem da página inicial do app BRB Mobilidade. Fonte: App BRB Mobilidade | **Figura 9**: Imagem de outras funcionalidades do app BRB Mobilidade. Fonte: App BRB Mobilidade |
+| **Figura 8**: Imagem da página inicial do app BRB Mobilidade. **Fonte:** App BRB Mobilidade | **Figura 9**: Imagem de outras funcionalidades do app BRB Mobilidade. **Fonte:** App BRB Mobilidade |
 
 </center>
-
-## CNHDigital
-<p align="justify"> Maria Eduarda foi a responsável pela análise do aplicativo CNH Digital. O principal objetivo da avaliação foi verificar se o aplicativo poderia ser utilizado como referência no desenvolvimento do trabalho, a partir da construção do rich picture. Primeiramente, analisou-se se o aplicativo apresentava pelo menos sete funcionalidades, critério considerado fundamental. Também foi avaliada a acessibilidade da plataforma aos usuários. Com esses dois critérios devidamente atendidos, a aplicação foi considerada viável para prosseguir com o estudo. </p> 
-<center>
-|      ![Figura 10](..assets/Apps-avaliados/CNHDigital.jpg) {width=300}       |
-| :-------------------------------------------------------------------------: |
-| **Figura 10**: Imagem da página principal do app CNH Digital. Fonte: app CNH Digital |
 
 ## Bibliografia
 
@@ -114,8 +115,8 @@ Pedro Túlio Curvelo Camilo foi o responsável pela análise do aplicativo BRB M
 > 2. Aplicativo do Metrô-DF. Disponível em: Apple Store. Acesso em: 10 abr 2025.
 > 3. Aplicativo do e-Título. Disponível em: Apple Store. Acesso em: 11 abr 2025.
 > 4. Aplicativo do DetranDF. Disponível em: Apple Store. Acesso em: 12 abr 2025.
-> 5. Aplicativo do BRB Mobilidade. Disponível em: Apple Store. Acesso em: 12 abr 2025.
-> 6. Aplicativo da CNH Digital. Disponível em: Apple Store. Acesso em: 12 abr 2025.
+> 5. Aplicativo da CNH Digital. Disponível em: Apple Store. Acesso em: 12 abr 2025.
+> 6. Aplicativo do BRB Mobilidade. Disponível em: Apple Store. Acesso em: 12 abr 2025.
 
 ## Histórico de versão
 
@@ -126,5 +127,5 @@ Pedro Túlio Curvelo Camilo foi o responsável pela análise do aplicativo BRB M
 |  1.2   | 10/04/2025 |      App e-Título      | [Luiz Bessa ](https://github.com/lfelipebessa) | [João Lobo](https://github.com/joaolobo10) |
 |  1.3   | 11/04/2025 |      App Metrô-DF      |   [João Lobo](https://github.com/joaolobo10)   |       [Giovana Barbosa](https://github.com/gio221)                                      |
 |  1.4   | 12/04/2025 |      App DetranDF      |   [Gabriel Dantas](https://github.com/gbevi)   |             [Giovana Barbosa](https://github.com/gio221)                                |
-|  1.5   | 12/04/2025 |      App BRB Mobilidade      |  [Pedro Camilo](https://github.com/PedrooCamilo)   |          |
-|  1.6   | 12/04/2025 |      App CNH Digital   | [Maria Eduarda](https://github.com/maaduh)     |          |
+|  1.5   | 12/04/2025 |      App BRB Mobilidade      |  [Pedro Camilo](https://github.com/PedrooCamilo)   |    [João Lobo](https://github.com/joaolobo10)      |
+|  1.6   | 12/04/2025 |      App CNH Digital   | [Maria Eduarda](https://github.com/maaduh)     |    [João Lobo](https://github.com/joaolobo10)      |
