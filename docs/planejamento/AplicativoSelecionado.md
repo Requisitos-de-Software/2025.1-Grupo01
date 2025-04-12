@@ -24,6 +24,11 @@ O aplicativo **Detran DF** é como um guia essencial para quem quer se aventurar
 Com uma interface intuitiva e funcionalidades acessíveis, o app é uma ferramenta indispensável tanto para motoristas quanto para quem está em processo de habilitação.
 </p>
 
+## Critérios de escolha
+<p align="justify">
+O aplicativo DetranDF foi escolhido a partir de uma análise comparativa entre cinco opções disponíveis. A principal motivação para a escolha foi o fato de o aplicativo apresentar diversas funcionalidades com propósitos distintos entre si, o que o tornou mais completo e interessante para fins de estudo. Entre as demais opções, uma já havia sido selecionada por outro grupo, duas apresentavam poucas funcionalidades, o que poderia comprometer a análise, e uma delas traria dificuldades para encontrar usuários reais que a utilizassem. Diante disso, o DetranDF se destacou como a alternativa mais viável e rica em possibilidades para o desenvolvimento do trabalho.
+</p>
+
 ---
 
 ## Histórico de Versão
@@ -31,3 +36,4 @@ Com uma interface intuitiva e funcionalidades acessíveis, o app é uma ferramen
 | Versão |    Data    |       Descrição        |                   Autor                    | Revisor |
 | :----: | :--------: | :--------------------: | :----------------------------------------: | :-----: |
 |  1.0   | 10/04/2025 | Início da documentação | [Maria Eduarda](https://github.com/maaduh) |       [Giovana Barbosa](https://github.com/gio221)   |
+|  1.1   | 12/04/2025 | Critérios de escolha | [Maria Eduarda](https://github.com/maaduh) |          |

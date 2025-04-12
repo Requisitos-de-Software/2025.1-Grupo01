@@ -88,6 +88,17 @@ O integrante responsável por avaliar o BRB Mobilidade foi o Pedro Túlio Curvel
 </div>
 </center>
 
+## CNH Digital
+A integrante responsável por avaliar o CNH Digital foi a Maria Eduarda Araujo Pereira. O Rich Picture é esse apresentado na Figura 6
+<center>
+![Sou.gov](../assets/Rich-picture/CNHDigital.jpg){ width=70% }
+<div align="center" >
+    <p> Figura 6: Imagem Rich Picture do app CNH Digital. Fonte: Rich Picture(Autoria Própria)
+    </p> 
+</div>
+</center>
+
+
 ## Bibliografia
 
 > 1. Aplicativo do Sou.gov. Disponível em: Apple Store. Acesso em: 07 abr 2024.
@@ -95,6 +106,7 @@ O integrante responsável por avaliar o BRB Mobilidade foi o Pedro Túlio Curvel
 > 3. Aplicativo do DetranDF. Disponível em: Apple Store. Acesso em: 11 abr 2024.
 > 4. Aplicativo do BRB Mobilidade. Disponível em: Apple Store. Acesso em: 12 abr 2025.
 > 4. Aplicativo do Metrô-DF. Disponível em: Apple Store. Acesso em: 12 abr 2025.
+> 5. Aplicativo do CNH Digital. Disponível em: Apple Store. Acesso em: 12 abr 2025.
 
 ## Histórico de versão
 
@@ -106,3 +118,4 @@ O integrante responsável por avaliar o BRB Mobilidade foi o Pedro Túlio Curvel
 |  1.3   | 11/04/2025 |      App DetranDF      |  [Gabriel Dantas](https://github.com/gbevi)   |     [Giovana Barbosa](https://github.com/gio221)     |
 |  1.4   | 12/04/2025 |      App BRB Mobilidade      |  [Pedro Camilo](https://github.com/PedrooCamilo)   |          |
 |  1.5   | 12/04/2025 |      App Metrô-DF      |  [João Lobo](https://github.com/joaolobo10)   |          |
+|  1.6   | 12/04/2025 |      App CNH Digital      |  [Maria Eduarda](https://github.com/maaduh)   |          |
