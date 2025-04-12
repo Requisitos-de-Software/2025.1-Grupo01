@@ -14,7 +14,7 @@ A tabela 1 descreve o integrante que fez a avaliação, e o app que avaliou.
 | [João Lobo](https://github.com/joaolobo10)     |   [Metrô-DF](#Metrô-DF)                    |
 | [Luiz Bessa](https://github.com/lfelipebessa)  | [e-Título](#e-Título) |
 | [Maria Eduarda](https://github.com/maaduh)     |                       |
-| [Pedro Tulio](https://github.com/PedrooCamilo) |                       |
+| [Pedro Tulio](https://github.com/PedrooCamilo) |  [BRB Mobilidade](#BRB Mobilidade)                     |
 
 </center>
 
@@ -74,18 +74,31 @@ O integrante responsável por avaliar o e-Título foi o Luiz Felipe Bessa. O Ric
 </div>
 </center>
 
+## BRB Mobilidade
+
+O integrante responsável por avaliar o BRB Mobilidade foi o Pedro Túlio Curvelo Camilo. O Rich Picture é esse apresentado na Figura 5
+
+<center>
+![Sou.gov](../assets/Rich-picture/BRB_Mobilidade.jpeg){ width=70% }
+<div align="center" >
+    <p> Figura 5: Imagem Rich Picture do app BRB Mobilidade. Fonte: Rich Picture(Autoria Própria)
+    </p> 
+</div>
+</center>
 
 ## Bibliografia
 
-> Aplicativo do Sou.gov. Disponível em: Apple Store. Acesso em: 07 abr 2024.
-> Aplicativo do e-Título. Disponível em: Apple Store. Acesso em: 08 abr 2024.
-> Aplicativo do DetranDF. Disponível em: Apple Store. Acesso em: 11 abr 2024.
+> 1. Aplicativo do Sou.gov. Disponível em: Apple Store. Acesso em: 07 abr 2024.
+> 2. Aplicativo do e-Título. Disponível em: Apple Store. Acesso em: 08 abr 2024.
+> 3. Aplicativo do DetranDF. Disponível em: Apple Store. Acesso em: 11 abr 2024.
+> 4. Aplicativo do BRB Mobilidade. Disponível em: Apple Store. Acesso em: 12 abr 2025.
 
 ## Histórico de versão
 
 | Versão |    Data    |       Descrição        |                     Autor                     | Revisor |
 | :----: | :--------: | :--------------------: | :-------------------------------------------: | :-----: |
 |  1.0   | 10/04/2025 | Início da documentação | [Giovana Barbosa ](https://github.com/gio221) |      |
-|  1.0   | 11/04/2025 |      App sou.gov       | [Giovana Barbosa ](https://github.com/gio221) |   |
-|  1.0   | 11/04/2025 |      App e-Título      | [Luiz Bessa](https://github.com/lfelipebessa) |     [Giovana Barbosa](https://github.com/gio221)     |
-|  1.0   | 11/04/2025 |      App DetranDF      |  [Gabriel Dantas](https://github.com/gbevi)   |     [Giovana Barbosa](https://github.com/gio221)     |
+|  1.1   | 11/04/2025 |      App sou.gov       | [Giovana Barbosa ](https://github.com/gio221) |   |
+|  1.2   | 11/04/2025 |      App e-Título      | [Luiz Bessa](https://github.com/lfelipebessa) |     [Giovana Barbosa](https://github.com/gio221)     |
+|  1.3   | 11/04/2025 |      App DetranDF      |  [Gabriel Dantas](https://github.com/gbevi)   |     [Giovana Barbosa](https://github.com/gio221)     |
+|  1.4   | 12/04/2025 |      App BRB Mobilidade      |  [Pedro Camilo](https://github.com/PedrooCamilo)   |          |
