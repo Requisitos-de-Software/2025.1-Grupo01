@@ -51,6 +51,6 @@ Ao analisar diferentes aplicativos públicos disponíveis, o aplicativo Detran-D
 
 | Versão |    Data    |                            Descrição                            |                      Autor                      |                  Revisor                   |
 | :----: | :--------: | :-------------------------------------------------------------: | :---------------------------------------------: | :----------------------------------------: |
-|  1.0   | 08/04/2025 |                     Início da documentação                      |   [João Lobo](https://github.com/joaolobo10)    |                                            |
+|  1.0   | 08/04/2025 |                     Início da documentação                      |   [João Lobo](https://github.com/joaolobo10)    |        [Giovana Barbosa](https://github.com/gio221)                                     |
 |  1.1   | 11/04/2025 |                 Desenvolvimento da documentação                 | [Pedro Camilo](https://github.com/PedrooCamilo) | [João Lobo](https://github.com/joaolobo10) |
-|  1.2   | 11/04/2025 | Padronizando as legendas, referências e,ajustes de alinhamentos |   [João Lobo](https://github.com/joaolobo10)    |                                            |
+|  1.2   | 11/04/2025 | Padronizando as legendas, referências e,ajustes de alinhamentos |   [João Lobo](https://github.com/joaolobo10)    |               [Giovana Barbosa](https://github.com/gio221)                              |

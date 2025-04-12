@@ -37,5 +37,5 @@ Com base nas informações da tabela acima, definimos que os encontros serão id
 
 | Versão |    Data    |                                 Descrição                                  |                   Autor                    | Revisor |
 | :----: | :--------: | :------------------------------------------------------------------------: | :----------------------------------------: | :-----: |
-|  1.0   | 09/04/2025 |                         Criação da página Heatmap                          | [João Lobo](https://github.com/joaolobo10) |         |
-|  1.1   | 11/04/2025 | Explicação sobre o heatmap, sua finalidade, resultados. Além da sua imagem | [João Lobo](https://github.com/joaolobo10) |         |
+|  1.0   | 09/04/2025 |                         Criação da página Heatmap                          | [João Lobo](https://github.com/joaolobo10) |   [Giovana Barbosa](https://github.com/gio221)       |
+|  1.1   | 11/04/2025 | Explicação sobre o heatmap, sua finalidade, resultados. Além da sua imagem | [João Lobo](https://github.com/joaolobo10) |        [Giovana Barbosa](https://github.com/gio221)  |
