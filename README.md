@@ -1,10 +1,9 @@
 ﻿# 2025.1-Grupo01
 # Detran-DF
 
-<center>
-![Detran-df](./docs/assets/Detran-df/DETRAN-DF.jpg){ width=50% }
-</center>
-<font size="3"><p style="text-align: center">**Figura 1 -** Imagem do app Detran-DF. **Fonte:** App Detran DF</p></font>
+<h1 align="center">
+    <img src="https://requisitos-de-software.github.io/2025.1-DetranDF/assets/Detran-df/DETRAN-DF.jpg" height="250"alt="Docusaurus">
+</h1>
 
 ## Sobre a disciplina
 
