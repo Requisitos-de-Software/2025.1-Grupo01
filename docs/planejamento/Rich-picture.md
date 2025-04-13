@@ -62,7 +62,7 @@ A integrante responsável por avaliar o Sou.gov foi a Giovana Barbosa. O Rich Pi
 O integrante responsável por avaliar o Metrô-DF foi o João Carlos Lobo. O Rich Picture é esse apresentado na Figura 4
 
 <center>
-![Metrô-DF](../assets/Rich-picture/rich-picture-metrdf.jpg){ width=70% }
+![Metrô-DF](../assets/Rich-picture/rich-picture-metrdf.jpg){ width=80% }
 <font size="3"><p style="text-align: center">**Figura 4:** Imagem Rich Picture do app Metrô-DF. **Fonte:** Rich Picture  (Autoria: [João Lobo](https://github.com/joaolobo10)), 2025.</p></font>
 </center>
 
@@ -112,3 +112,4 @@ O integrante responsável por avaliar o BRB Mobilidade foi o Pedro Túlio Curvel
 |  1.4   | 12/04/2025 |      App BRB Mobilidade      |  [Pedro Camilo](https://github.com/PedrooCamilo)   |     [João Lobo](https://github.com/joaolobo10)     |
 |  1.5   | 12/04/2025 |      App Metrô-DF      |  [João Lobo](https://github.com/joaolobo10)   |      [João Lobo](https://github.com/joaolobo10)    |
 |  1.6   | 12/04/2025 |      App CNH Digital      |  [Maria Eduarda](https://github.com/maaduh)   |   [João Lobo](https://github.com/joaolobo10)       |
+|  1.6   | 12/04/2025 |      Padronização das legendas      |  [João Lobo](https://github.com/joaolobo10)   |   [Giovana Barbosa](https://github.com/gio221)       |
