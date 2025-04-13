@@ -42,15 +42,3 @@ Ao analisar diferentes aplicativos públicos disponíveis, o aplicativo Detran-D
     <td align="center"><a href="https://github.com/PedrooCamilo"><img style="border-radius: 60%;" src="https://github.com/PedrooCamilo.png" width="200px;" alt=""/><br /><sub><b>Pedro Túlio Curvelo Camilo</b></sub></a><br />
   </tr>
 </table>
-
-## Referências
-
-> 1. DETRAN-DF. Departamento de Trânsito do Distrito Federal. Disponível em: [https://www.detran.df.gov.br/](https://www.detran.df.gov.br/). Acesso em: 11 de abril de 2025.
-
-## Histórico de versão
-
-| Versão |    Data    |                            Descrição                            |                      Autor                      |                  Revisor                   |
-| :----: | :--------: | :-------------------------------------------------------------: | :---------------------------------------------: | :----------------------------------------: |
-|  1.0   | 08/04/2025 |                     Início da documentação                      |   [João Lobo](https://github.com/joaolobo10)    |        [Giovana Barbosa](https://github.com/gio221)                                     |
-|  1.1   | 11/04/2025 |                 Desenvolvimento da documentação                 | [Pedro Camilo](https://github.com/PedrooCamilo) | [João Lobo](https://github.com/joaolobo10) |
-|  1.2   | 11/04/2025 | Padronizando as legendas, referências e,ajustes de alinhamentos |   [João Lobo](https://github.com/joaolobo10)    |               [Giovana Barbosa](https://github.com/gio221)                              |
