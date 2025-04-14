@@ -15,7 +15,7 @@ A **tabela 1** descreve o integrante que fez a avaliação, e o app que avaliou.
 | [Gabriel Dantas](https://github.com/gbevi)     |      [DetranDF](#DetranDF)   |
 | [Giovana Silva](https://github.com/gio221)     | [Sougov](#sougov)  |
 | [João Lobo](https://github.com/joaolobo10)     | |
-| [Luiz Bessa](https://github.com/lfelipebessa)  | |
+| [Luiz Bessa](https://github.com/lfelipebessa)  | [e-Título](#e-Título)|
 | [Maria Eduarda](https://github.com/maaduh)     |   |
 | [Pedro Tulio](https://github.com/PedrooCamilo) |  |
 
@@ -64,7 +64,19 @@ A **tabela 4** descreve a lista de verificação do app sou.gov
 
 ## e-Título
 
+A **tabela 4** descreve a lista de verificação do app e-Título
 
+<center>
+    <font size="3"><p style="text-align: center">Tabela 4: lista do app e-Título</p></font>
+
+|ID| Critérios                             | Sim/Não/Incompleto        | Print
+| ---------------------------------------------- | --------------------- |--------------------- |--------------------- |
+|1| Possui 7 funcionalidades|Sim|[Print](https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf)|
+|2| Possui autorização para estudo no termo de uso|Sim|[Print](https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf)|
+
+<font size="3"><p style="text-align: center">Fonte: [Luiz Bessa](https://github.com/lfelipebessa), 2025.</p></font>
+
+</center>
 
 ## CNHDigital
 
@@ -87,4 +99,5 @@ A **tabela 4** descreve a lista de verificação do app sou.gov
 | Versão |    Data    |       Descrição        |                     Autor                      |                  Revisor                   |
 | :----: | :--------: | :--------------------: | :--------------------------------------------: | :----------------------------------------: |
 |  1.0   | 14/04/2025 | Início da documentação, avaliação sou gov | [Giovana Barbosa ](https://github.com/gio221)  |  [Gabriel Dantas](https://github.com/gbevi)|
-|  1.1   | 14/04/2025 | Início da documentação, avaliação sou gov | [Gabriel Dantas](https://github.com/gbevi)  |  |
+|  1.1   | 14/04/2025 | Início da documentação, avaliação sou gov | [Gabriel Dantas](https://github.com/gbevi)  |  [Luiz Bessa](https://github.com/lfelipebessa)   |
+|  1.2   | 14/04/2025 | Início da documentação, avaliação e-Título| [Luiz Bessa](https://github.com/lfelipebessa)  |  |
