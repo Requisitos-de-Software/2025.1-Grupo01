@@ -7,7 +7,7 @@ Tem como objetivo verificar se os apps avaliados estão de acordo com a lista de
 A **tabela 1** descreve o integrante que fez a avaliação, e o app que avaliou.
 
 <center>
-    <font size="3"><p style="text-align: center">Tabela 1: Heatmap.</p></font>
+    <font size="3"><p style="text-align: center">Tabela 1</p></font>
 
 | Integrante                                     | Site Avaliado         |
 | ---------------------------------------------- | --------------------- |
@@ -22,42 +22,6 @@ A **tabela 1** descreve o integrante que fez a avaliação, e o app que avaliou.
 
 </center>
 
-## Introdução
-
-<p align="justify">
-Cada membro da equipe se dedicou ao planejamento e avaliação de aplicativos candidatos para o projeto em questão. Todas as avaliações foram conduzidas com base nas atividades do Rich Picture. Na Tabela 1 abaixo, estão apresentados os apps selecionados por cada integrante:
-</p>
-
-A **tabela 1** descreve o integrante que fez a avaliação, e o app que avaliou.
-
-<center>
-    <font size="3"><p style="text-align: center">Tabela 1: Heatmap.</p></font>
-
-| Integrante                                     | Site Avaliado         |
-| ---------------------------------------------- | --------------------- |
-| [Gabriel Dantas](https://github.com/gbevi)     |  [DetranDF](#detrandf)                     |
-| [Giovana Silva](https://github.com/gio221)     | [Sou.gov](#Sou.gov)   |
-| [João Lobo](https://github.com/joaolobo10)     | [Metrô-DF](#Metrô-DF) |
-| [Luiz Bessa](https://github.com/lfelipebessa)  | [e-Título](#e-Título) |
-| [Maria Eduarda](https://github.com/maaduh)     | [CNH DIGITAL](#CNHDigital)                      |
-| [Pedro Tulio](https://github.com/PedrooCamilo) | [BRB Mobilidade](#BRBMobilidade)                      |
-
-<font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa ](https://github.com/gio221), 2025.</p></font>
-
-</center>
-
-## Objetivo
-
-<p align="justify">
-O objetivo deste documento é relatar a avaliação dos apps feitos para a escolha do app para o projeto.
-</p>
-
-## Metodologia
-
-A metodologia utilizada foi o Rich Picture.
-
-<a id="sou,gov"></a>
-
 ## Sigaa
 
 
@@ -67,6 +31,18 @@ A metodologia utilizada foi o Rich Picture.
 
 ## Sou.gov
 
+A **tabela 4** descreve a lista de verificação do app sou.gov
+
+<center>
+    <font size="3"><p style="text-align: center">Tabela 4: lista do app.sou gov</p></font>
+
+|ID| Critérios                             | Sim/Não/Incompleto        | Qual versão foi avaliado
+| ---------------------------------------------- | --------------------- |--------------------- |--------------------- |
+
+
+<font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa ](https://github.com/gio221), 2025.</p></font>
+
+</center>
 
 ## Metrô-DF
 
