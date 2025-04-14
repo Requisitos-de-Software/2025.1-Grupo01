@@ -17,7 +17,7 @@ A **tabela 1** descreve o integrante que fez a avaliação, e o app que avaliou.
 | [João Lobo](https://github.com/joaolobo10)     | |
 | [Luiz Bessa](https://github.com/lfelipebessa)  | [e-Título](#e-Título)|
 | [Maria Eduarda](https://github.com/maaduh)     |   |
-| [Pedro Tulio](https://github.com/PedrooCamilo) |  |
+| [Pedro Tulio](https://github.com/PedrooCamilo) | [BRB Mobilidade](#BRBMobilidade) |
 
 <font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa ](https://github.com/gio221), 2025.</p></font>
 
@@ -82,7 +82,19 @@ A **tabela 4** descreve a lista de verificação do app e-Título
 
 
 ## BRBMobilidade
+A **tabela 7** descreve a lista de verificação do app BRB Mobilidade
 
+<center>
+    <font size="3"><p style="text-align: center">Tabela 4: lista do app BRB Mobilidade</p></font>
+
+|ID| Critérios                             | Sim/Não/Incompleto        | Print
+| ---------------------------------------------- | --------------------- |--------------------- |--------------------- |
+|1| Possui 7 funcionalidades|Sim|[Print](https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf)|
+|2| Possui autorização para estudo no termo de uso|Sim|[Print](https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf)|
+
+<font size="3"><p style="text-align: center">Fonte: [Pedro Camilo](https://github.com/PedrooCamilo), 2025.</p></font>
+
+</center>
 
 
 ## Bibliografia
