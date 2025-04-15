@@ -22,4 +22,4 @@ A **tabela 1** descreve a lista de verificação do app Detran DF
 
 | Versão |    Data    |       Descrição        |                     Autor                      |                  Revisor                   |
 | :----: | :--------: | :--------------------: | :--------------------------------------------: | :----------------------------------------: |
-|  1.0   | 14/04/2025 | Início da documentação | [maria Eduarda](https://github.com/maaduh)  | |
+|  1.0   | 14/04/2025 | Início da documentação | [maria Eduarda](https://github.com/maaduh)  | [Giovana Barbosa ](https://github.com/gio221)|

@@ -38,4 +38,4 @@ Além disso, a norma ISO/IEC 12207 enfatiza a necessidade de documentar os proce
 
 | Versão |    Data    |       Descrição        |                     Autor                      |                  Revisor                   |
 | :----: | :--------: | :--------------------: | :--------------------------------------------: | :----------------------------------------: |
-|  1.0   | 14/04/2025 | Início da documentação | [Luiz Bessa](https://github.com/lfelipebessa)  |  |
+|  1.0   | 14/04/2025 | Início da documentação | [Luiz Bessa](https://github.com/lfelipebessa)  | [Giovana Barbosa ](https://github.com/gio221)  |

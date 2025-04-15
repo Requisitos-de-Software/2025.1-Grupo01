@@ -44,4 +44,4 @@ Precisa ajustar o cronograma colocando a data de entrega de cada etapa e acresce
 
 | Versão |    Data    |       Descrição        |                     Autor                      |                  Revisor                   |
 | :----: | :--------: | :--------------------: | :--------------------------------------------: | :----------------------------------------: |
-|  1.0   | 14/04/2025 | Início da documentação | [Giovana Barbosa ](https://github.com/gio221)  |  |
+|  1.0   | 14/04/2025 | Início da documentação | [Giovana Barbosa ](https://github.com/gio221)  | [Eric Akio](https://github.com/eric-kingu)  |
