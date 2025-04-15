@@ -28,6 +28,7 @@ Além disso, a norma ISO/IEC 12207 enfatiza a necessidade de documentar os proce
 
 ## Bibliografia
 > Verificação https://requisitos-de-software.github.io/2025.1-Guardioes-da-Saude/
+>
 > ISO/IEC 12207 - Análise dos Requisitos do Software: https://pt.wikipedia.org/wiki/ISO/IEC_12207
 
 
