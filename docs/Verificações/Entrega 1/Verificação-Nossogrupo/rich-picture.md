@@ -1,22 +1,25 @@
 ## Introdução
+
 Esse artefato verifica os rich pictures do grupo 1
 
 ## Objetivo
+
 Verificar os rich pictures de cada integrante
 
 A **tabela 1** descreve o integrante que fez cada rich picture
+
 <center>
     <font size="3"><p style="text-align: center">Tabela 1</p></font>
 
 | Integrante                                     | Site Avaliado         |
 | ---------------------------------------------- | --------------------- |
-| [Eric Akio](https://github.com/eric-kingu)     ||
-| [Gabriel Dantas](https://github.com/gbevi)     |         |
-| [Giovana Silva](https://github.com/gio221)     | [sougov](#sougov)   |
-| [João Lobo](https://github.com/joaolobo10)     | |
-| [Luiz Bessa](https://github.com/lfelipebessa)  | |
-| [Maria Eduarda](https://github.com/maaduh)     |   |
-| [Pedro Tulio](https://github.com/PedrooCamilo) |  |
+| [Eric Akio](https://github.com/eric-kingu)     |                       |
+| [Gabriel Dantas](https://github.com/gbevi)     |                       |
+| [Giovana Silva](https://github.com/gio221)     | [sougov](#sougov)     |
+| [João Lobo](https://github.com/joaolobo10)     | [Metrô-DF](#Metrô-DF) |
+| [Luiz Bessa](https://github.com/lfelipebessa)  |                       |
+| [Maria Eduarda](https://github.com/maaduh)     |                       |
+| [Pedro Tulio](https://github.com/PedrooCamilo) |                       |
 
 <font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa ](https://github.com/gio221), 2025.</p></font>
 
@@ -24,10 +27,7 @@ A **tabela 1** descreve o integrante que fez cada rich picture
 
 ## Sigaa
 
-
 ## DetranDF
-
-
 
 ## Sou.gov
 
@@ -36,41 +36,62 @@ A **tabela 4** descreve a lista de verificação do rich picture do app sou.gov
 <center>
     <font size="3"><p style="text-align: center">Tabela 4: lista do app.sou gov</p></font>
 
-|ID| Critérios                             | Sim/Não/Incompleto        | Print  
-| ---------------------------------------------- | --------------------- |--------------------- |--------------------- |
-|1|O rich picture é fácil de entender?|sim|[Print](https://drive.google.com/file/d/1RTsU-_e78TORKS90YyBhLp-XZpEIPCO5/view?usp=sharing)|
-|2|Os autores do Rich picture estão bem especificados?|sim|[Print](https://drive.google.com/file/d/1RTsU-_e78TORKS90YyBhLp-XZpEIPCO5/view?usp=sharing)|
-|3|As operações do Rich picture estão bem especificadas?|sim|[Print](https://drive.google.com/file/d/15LhLA49HUj7ydIZRZ38Z4arREHkcXx2W/view?usp=sharing)|
-|4|As tabelas do Rich picture estão bem especificadas?|sim|[Print](https://drive.google.com/file/d/15LhLA49HUj7ydIZRZ38Z4arREHkcXx2W/view?usp=sharing)|
-|5|As setas do Rich picture estão bem especificadas?|sim|[Print](https://drive.google.com/file/d/15LhLA49HUj7ydIZRZ38Z4arREHkcXx2W/view?usp=sharing)|
-|6|O limite do sistema do Rich picture está bem especificado?|sim|[Print](https://drive.google.com/file/d/15LhLA49HUj7ydIZRZ38Z4arREHkcXx2W/view?usp=sharing)|
-|7|Olhando o Rich picture você consegue analisar e entender o problema apresentado|sim|[Print](https://drive.google.com/file/d/12uiTb718rH46ULNGmarzL7jvI7SLxRE-/view?usp=sharing)|
+| ID  | Critérios                                                                       | Sim/Não/Incompleto | Print                                                                                       |
+| --- | ------------------------------------------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------- |
+| 1   | O rich picture é fácil de entender?                                             | sim                | [Print](https://drive.google.com/file/d/1RTsU-_e78TORKS90YyBhLp-XZpEIPCO5/view?usp=sharing) |
+| 2   | Os autores do Rich picture estão bem especificados?                             | sim                | [Print](https://drive.google.com/file/d/1RTsU-_e78TORKS90YyBhLp-XZpEIPCO5/view?usp=sharing) |
+| 3   | As operações do Rich picture estão bem especificadas?                           | sim                | [Print](https://drive.google.com/file/d/15LhLA49HUj7ydIZRZ38Z4arREHkcXx2W/view?usp=sharing) |
+| 4   | As tabelas do Rich picture estão bem especificadas?                             | sim                | [Print](https://drive.google.com/file/d/15LhLA49HUj7ydIZRZ38Z4arREHkcXx2W/view?usp=sharing) |
+| 5   | As setas do Rich picture estão bem especificadas?                               | sim                | [Print](https://drive.google.com/file/d/15LhLA49HUj7ydIZRZ38Z4arREHkcXx2W/view?usp=sharing) |
+| 6   | O limite do sistema do Rich picture está bem especificado?                      | sim                | [Print](https://drive.google.com/file/d/15LhLA49HUj7ydIZRZ38Z4arREHkcXx2W/view?usp=sharing) |
+| 7   | Olhando o Rich picture você consegue analisar e entender o problema apresentado | sim                | [Print](https://drive.google.com/file/d/12uiTb718rH46ULNGmarzL7jvI7SLxRE-/view?usp=sharing) |
 
 <font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa ](https://github.com/gio221), 2025.</p></font>
 
 </center>
 
 ### Problemas encontrados
- - Não houve problemas encontrados
+
+- Não houve problemas encontrados
 
 ### Soluções
-- Como não houve problemas encontrados, não precisa de solução
 
+- Como não houve problemas encontrados, não precisa de solução
 
 ## Metrô-DF
 
+A **tabela 5** descreve a lista de verificação do rich picture do app Metrô-DF
 
+<center>
+    <font size="3"><p style="text-align: center">**Tabela 5:** lista do app Metrô-DF</p></font>
+
+| ID  | Critérios                                                                       | Sim/Não/Incompleto | Print                                                                                       |
+| --- | ------------------------------------------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------- |
+| 1   | O rich picture é fácil de entender?                                             | sim                | [Print](https://drive.google.com/file/d/1RTsU-_e78TORKS90YyBhLp-XZpEIPCO5/view?usp=sharing) |
+| 2   | Os autores do Rich picture estão bem especificados?                             | sim                | [Print](https://drive.google.com/file/d/1RTsU-_e78TORKS90YyBhLp-XZpEIPCO5/view?usp=sharing) |
+| 3   | As operações do Rich picture estão bem especificadas?                           | sim                | [Print](https://drive.google.com/file/d/15LhLA49HUj7ydIZRZ38Z4arREHkcXx2W/view?usp=sharing) |
+| 4   | As tabelas do Rich picture estão bem especificadas?                             | sim                | [Print](https://drive.google.com/file/d/15LhLA49HUj7ydIZRZ38Z4arREHkcXx2W/view?usp=sharing) |
+| 5   | As setas do Rich picture estão bem especificadas?                               | sim                | [Print](https://drive.google.com/file/d/15LhLA49HUj7ydIZRZ38Z4arREHkcXx2W/view?usp=sharing) |
+| 6   | O limite do sistema do Rich picture está bem especificado?                      | não                | [Print](https://drive.google.com/file/d/15LhLA49HUj7ydIZRZ38Z4arREHkcXx2W/view?usp=sharing) |
+| 7   | Olhando o Rich picture você consegue analisar e entender o problema apresentado | sim                | [Print](https://drive.google.com/file/d/12uiTb718rH46ULNGmarzL7jvI7SLxRE-/view?usp=sharing) |
+
+<font size="3"><p style="text-align: center">Fonte: [João Lobo](https://github.com/joaolobo10), 2025.</p></font>
+
+</center>
+
+### Problemas encontrados
+
+- Como o ator representado no rich picture, está centralizado, é díficil definir um limite do sistema.
+
+### Soluções
+
+- Uma solução seria construir o rich picture de outra forma, onde o ator usuário, pode ficar em uma posição mais clara, tornando possível definir o limite do sistema de maneira mais fácil, o que tornaria mais fácil ainda de entender.
 
 ## e-Título
 
-
-
 ## CNHDigital
 
-
 ## BRBMobilidade
-
-
 
 ## Bibliografia
 
@@ -83,6 +104,7 @@ A **tabela 4** descreve a lista de verificação do rich picture do app sou.gov
 
 ## Histórico de versão
 
-| Versão |    Data    |       Descrição        |                     Autor                      |                  Revisor                   |
-| :----: | :--------: | :--------------------: | :--------------------------------------------: | :----------------------------------------: |
-|  1.0   | 14/04/2025 | Início da documentação, avaliação sou gov | [Giovana Barbosa ](https://github.com/gio221)  |  |
+| Versão |    Data    |                 Descrição                 |                     Autor                     |                  Revisor                   |
+| :----: | :--------: | :---------------------------------------: | :-------------------------------------------: | :----------------------------------------: |
+|  1.0   | 14/04/2025 | Início da documentação, avaliação sou gov | [Giovana Barbosa ](https://github.com/gio221) | [João Lobo](https://github.com/joaolobo10) |
+|  1.1   | 14/04/2025 | Início da documentação, avaliação sou gov |  [João Lobo](https://github.com/joaolobo10)   |                                            |

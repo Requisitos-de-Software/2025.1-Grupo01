@@ -1,23 +1,25 @@
 ## Introdução
+
 Esse artefato é para que podemos verificar os apps avaliados de cada integrante da equipe
 
 ## Objetivo
+
 Tem como objetivo verificar se os apps avaliados estão de acordo com a lista de verificação
 
 A **tabela 1** descreve o integrante que fez a avaliação, e o app que avaliou.
 
 <center>
-    <font size="3"><p style="text-align: center">Tabela 1</p></font>
+    <font size="3"><p style="text-align: center">**Tabela 1**</p></font>
 
 | Integrante                                     | Site Avaliado         |
 | ---------------------------------------------- | --------------------- |
-| [Eric Akio](https://github.com/eric-kingu)     ||
-| [Gabriel Dantas](https://github.com/gbevi)     |      [DetranDF](#DetranDF)   |
-| [Giovana Silva](https://github.com/gio221)     | [Sougov](#sougov)  |
-| [João Lobo](https://github.com/joaolobo10)     | |
-| [Luiz Bessa](https://github.com/lfelipebessa)  | |
-| [Maria Eduarda](https://github.com/maaduh)     |   |
-| [Pedro Tulio](https://github.com/PedrooCamilo) |  |
+| [Eric Akio](https://github.com/eric-kingu)     |                       |
+| [Gabriel Dantas](https://github.com/gbevi)     | [DetranDF](#DetranDF) |
+| [Giovana Silva](https://github.com/gio221)     | [Sougov](#sougov)     |
+| [João Lobo](https://github.com/joaolobo10)     | [Metrô-DF](#Metrô-DF) |
+| [Luiz Bessa](https://github.com/lfelipebessa)  |                       |
+| [Maria Eduarda](https://github.com/maaduh)     |                       |
+| [Pedro Tulio](https://github.com/PedrooCamilo) |                       |
 
 <font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa ](https://github.com/gio221), 2025.</p></font>
 
@@ -25,34 +27,33 @@ A **tabela 1** descreve o integrante que fez a avaliação, e o app que avaliou.
 
 ## Sigaa
 
-
 ## DetranDF
+
 A **tabela 3** descreve a lista de verificação do app Detran DF
 
 <center>
-    <font size="3"><p style="text-align: center">Tabela 3: lista do app Detran DF</p></font>
+    <font size="3"><p style="text-align: center">**Tabela 3:** lista do app Detran DF</p></font>
 
-|ID| Critérios                             | Sim/Não/Incompleto        | Print
-| ---------------------------------------------- | --------------------- |--------------------- |--------------------- |
-|1| Possui 7 funcionalidades|Sim|[Print](https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf)|
-|2| Possui autorização para estudo no termo de uso|Sim|[Print](https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf)|
+| ID  | Critérios                                      | Sim/Não/Incompleto | Print                                                                                            |
+| --- | ---------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------ |
+| 1   | Possui 7 funcionalidades                       | Sim                | [Print](https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf) |
+| 2   | Possui autorização para estudo no termo de uso | Sim                | [Print](https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf) |
 
 <font size="3"><p style="text-align: center">Fonte: [Gabriel Dantas ](https://github.com/gbevi), 2025.</p></font>
 
 </center>
-
 
 ## Sou.gov
 
 A **tabela 4** descreve a lista de verificação do app sou.gov
 
 <center>
-    <font size="3"><p style="text-align: center">Tabela 4: lista do app.sou gov</p></font>
+    <font size="3"><p style="text-align: center">**Tabela 4:** lista do app.sou gov</p></font>
 
-|ID| Critérios                             | Sim/Não/Incompleto        | Print
-| ---------------------------------------------- | --------------------- |--------------------- |--------------------- |
-|1| Possui 7 funcionalidades|Sim|[Print](https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf)|
-|2| Possui autorização para estudo no termo de uso|Sim|[Print](https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf)|
+| ID  | Critérios                                      | Sim/Não/Incompleto | Print                                                                                            |
+| --- | ---------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------ |
+| 1   | Possui 7 funcionalidades                       | Sim                | [Print](https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf) |
+| 2   | Possui autorização para estudo no termo de uso | Sim                | [Print](https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf) |
 
 <font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa ](https://github.com/gio221), 2025.</p></font>
 
@@ -60,18 +61,25 @@ A **tabela 4** descreve a lista de verificação do app sou.gov
 
 ## Metrô-DF
 
+A **tabela 5** descreve a lista de verificação do app Metrô-DF
 
+<center>
+    <font size="3"><p style="text-align: center">**Tabela 5:** lista do app Metrô-DF</p></font>
+
+| ID  | Critérios                                      | Sim/Não/Incompleto | Print                                                                                            |
+| --- | ---------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------ |
+| 1   | Possui 7 funcionalidades                       | Sim                | [Print](https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf) |
+| 2   | Possui autorização para estudo no termo de uso | Sim                | [Print](https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf) |
+
+<font size="3"><p style="text-align: center">Fonte: [João Lobo](https://github.com/joaolobo10), 2025.</p></font>
+
+</center>
 
 ## e-Título
 
-
-
 ## CNHDigital
 
-
 ## BRBMobilidade
-
-
 
 ## Bibliografia
 
@@ -84,7 +92,8 @@ A **tabela 4** descreve a lista de verificação do app sou.gov
 
 ## Histórico de versão
 
-| Versão |    Data    |       Descrição        |                     Autor                      |                  Revisor                   |
-| :----: | :--------: | :--------------------: | :--------------------------------------------: | :----------------------------------------: |
-|  1.0   | 14/04/2025 | Início da documentação, avaliação sou gov | [Giovana Barbosa ](https://github.com/gio221)  |  [Gabriel Dantas](https://github.com/gbevi)|
-|  1.1   | 14/04/2025 | Início da documentação, avaliação sou gov | [Gabriel Dantas](https://github.com/gbevi)  |  |
+| Versão |    Data    |                 Descrição                 |                     Autor                     |                  Revisor                   |
+| :----: | :--------: | :---------------------------------------: | :-------------------------------------------: | :----------------------------------------: |
+|  1.0   | 14/04/2025 | Início da documentação, avaliação sou gov | [Giovana Barbosa ](https://github.com/gio221) | [Gabriel Dantas](https://github.com/gbevi) |
+|  1.1   | 14/04/2025 | Início da documentação, avaliação sou gov |  [Gabriel Dantas](https://github.com/gbevi)   | [João Lobo](https://github.com/joaolobo10) |
+|  1.2   | 14/04/2025 | Início da documentação, avaliação sou gov |  [João Lobo](https://github.com/joaolobo10)   |                                            |
