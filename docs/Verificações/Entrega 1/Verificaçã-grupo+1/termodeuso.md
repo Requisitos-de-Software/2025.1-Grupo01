@@ -31,4 +31,4 @@ Termo de uso presente, bem como documentos extras.
 
 | Versão |    Data    |       Descrição        |                     Autor                      |                  Revisor                   |
 | :----: | :--------: | :--------------------: | :--------------------------------------------: | :----------------------------------------: |
-|  1.0   | 14/04/2025 | Início da documentação | [Gabriel Dantas ](https://github.com/gbevi)  |  |
+|  1.0   | 14/04/2025 | Início da documentação | [Gabriel Dantas ](https://github.com/gbevi)  | [Giovana Barbosa ](https://github.com/gio221) |

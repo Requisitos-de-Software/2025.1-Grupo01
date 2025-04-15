@@ -7,7 +7,9 @@ Verificar a página de metodologia.
 ## Metodologia
 A metodologia abordada é a de checklist. Vamos responder a checklist previamente elaborado
 
+
 ## Checklist Metodologia
+
 A tabela 1 descreve a checklist respondido do artefato Metodologia.
 
     Tabela 1: Checklist Metodologia
