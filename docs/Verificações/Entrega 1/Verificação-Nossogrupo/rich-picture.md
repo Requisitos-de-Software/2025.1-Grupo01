@@ -139,3 +139,4 @@ A **tabela 5** descreve a lista de verificação do rich picture do app BRB Mobi
 | :----: | :--------: | :--------------------: | :--------------------------------------------: | :----------------------------------------: |
 |  1.0   | 14/04/2025 | Início da documentação, avaliação sou gov | [Giovana Barbosa ](https://github.com/gio221)  |  [Luiz Bessa](https://github.com/lfelipebessa)    |
 |  1.1   | 14/04/2025 | Início da documentação, avaliação e-Título| [Luiz Bessa](https://github.com/lfelipebessa)  |  |
+|  1.2   | 14/04/2025 | avaliação BRB Mobilidade| [Pedro Camilo](https://github.com/PedrooCamilo)  |  |

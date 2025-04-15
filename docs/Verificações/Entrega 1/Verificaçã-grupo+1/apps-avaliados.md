@@ -17,7 +17,7 @@ A **tabela 1** descreve qual app cada integrante avaliou
 | [João Lobo](https://github.com/joaolobo10)     | |
 | [Luiz Bessa](https://github.com/lfelipebessa)  | [NeoEnergia](#NeoEnergia)|
 | [Maria Eduarda](https://github.com/maaduh)     |   |
-| [Pedro Tulio](https://github.com/PedrooCamilo) |  |
+| [Pedro Tulio](https://github.com/PedrooCamilo) |  [Meu INSS](#MeuINSS)|
 
 <font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa ](https://github.com/gio221), 2025.</p></font>
 
@@ -71,6 +71,22 @@ A **tabela 4** descreve a lista de verificação do app NeoEnergia
 
 </center>
 
+## MeuINSS
+A **tabela 7** descreve a lista de verificação do app MeuINSS
+
+<center>
+    <font size="3"><p style="text-align: center">Tabela 7: lista do app MeuINSS</p></font>
+
+|ID| Critérios                             | Sim/Não/Incompleto        | Print
+| ---------------------------------------------- | --------------------- |--------------------- |--------------------- |
+|1| Possui 7 funcionalidades|Sim|[Print](https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf)|
+|2| Possui autorização para estudo no termo de uso|Sim|[Print](https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf)|
+
+<font size="3"><p style="text-align: center">Fonte: [Pedro Camilo ](https://github.com/PedrooCamilo), 2025.</p></font>
+
+</center>
+
+
 
 ## Bibliografia
 > Verificação https://requisitos-de-software.github.io/2025.1-Guardioes-da-Saude/planejamento/lista-de-apps-avaliados/
@@ -82,3 +98,4 @@ A **tabela 4** descreve a lista de verificação do app NeoEnergia
 |  1.0   | 14/04/2025 | Início da documentação, avaliação da cdt | [Giovana Barbosa ](https://github.com/gio221)  | [Gabriel Dantas](https://github.com/gbevi) |
 |  1.1   | 14/04/2025 | Início da documentação, avaliação do DetranDF | [Gabriel Dantas ](https://github.com/gbevi)  | [Luiz Bessa](https://github.com/lfelipebessa)  |
 |  1.2   | 14/04/2025 | Início da documentação, avaliação do NeoEnergia | [Luiz Bessa](https://github.com/lfelipebessa)  | |
+|  1.3   | 14/04/2025 | avaliação do MeuINSS | [Pedro Camilo](https://github.com/PedrooCamilo)  | |

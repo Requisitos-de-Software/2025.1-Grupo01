@@ -113,3 +113,4 @@ A **tabela 7** descreve a lista de verificação do app BRB Mobilidade
 |  1.0   | 14/04/2025 | Início da documentação, avaliação sou gov | [Giovana Barbosa ](https://github.com/gio221)  |  [Gabriel Dantas](https://github.com/gbevi)|
 |  1.1   | 14/04/2025 | Início da documentação, avaliação sou gov | [Gabriel Dantas](https://github.com/gbevi)  |  [Luiz Bessa](https://github.com/lfelipebessa)   |
 |  1.2   | 14/04/2025 | Início da documentação, avaliação e-Título| [Luiz Bessa](https://github.com/lfelipebessa)  |  |
+|  1.3   | 14/04/2025 | avaliação BRB Mobilidade| [Pedro Camilo](https://github.com/PedrooCamilo)  |  |
