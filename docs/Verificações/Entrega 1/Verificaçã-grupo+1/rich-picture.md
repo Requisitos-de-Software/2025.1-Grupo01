@@ -130,20 +130,18 @@ A **tabela 5** descreve a lista de verificação do rich picture do app Guardiõ
 
 |ID| Critérios                             | Sim/Não/Incompleto        | Print  
 | ---------------------------------------------- | --------------------- |--------------------- |--------------------- |
-|1|O rich picture é fácil de entender?|Não|[Print](https://drive.google.com/file/d/1RTsU-_e78TORKS90YyBhLp-XZpEIPCO5/view?usp=sharing)|
-|2|Os autores do Rich picture estão bem especificados?|Não|[Print](https://drive.google.com/file/d/1RTsU-_e78TORKS90YyBhLp-XZpEIPCO5/view?usp=sharing)|
-|3|As operações do Rich picture estão bem especificadas?|Não|[Print](https://drive.google.com/file/d/15LhLA49HUj7ydIZRZ38Z4arREHkcXx2W/view?usp=sharing)|
-|4|As tabelas do Rich picture estão bem especificadas?|Não|[Print](https://drive.google.com/file/d/15LhLA49HUj7ydIZRZ38Z4arREHkcXx2W/view?usp=sharing)|
-|5|As setas do Rich picture estão bem especificadas?|Não|[Print](https://drive.google.com/file/d/15LhLA49HUj7ydIZRZ38Z4arREHkcXx2W/view?usp=sharing)|
-|6|O limite do sistema do Rich picture está bem especificado?|Não|[Print](https://drive.google.com/file/d/15LhLA49HUj7ydIZRZ38Z4arREHkcXx2W/view?usp=sharing)|
-|7|Olhando o Rich picture você consegue analisar e entender o problema apresentado|Não|[Print](https://drive.google.com/file/d/12uiTb718rH46ULNGmarzL7jvI7SLxRE-/view?usp=sharing)|
+|1|O rich picture é fácil de entender?|Sim|[Print](https://drive.google.com/file/d/1RTsU-_e78TORKS90YyBhLp-XZpEIPCO5/view?usp=sharing)|
+|2|Os autores do Rich picture estão bem especificados?|Sim|[Print](https://drive.google.com/file/d/1RTsU-_e78TORKS90YyBhLp-XZpEIPCO5/view?usp=sharing)|
+|3|As operações do Rich picture estão bem especificadas?|Sim|[Print](https://drive.google.com/file/d/15LhLA49HUj7ydIZRZ38Z4arREHkcXx2W/view?usp=sharing)|
+|4|As tabelas do Rich picture estão bem especificadas?|Sim|[Print](https://drive.google.com/file/d/15LhLA49HUj7ydIZRZ38Z4arREHkcXx2W/view?usp=sharing)|
+|5|As setas do Rich picture estão bem especificadas?|Sim|[Print](https://drive.google.com/file/d/15LhLA49HUj7ydIZRZ38Z4arREHkcXx2W/view?usp=sharing)|
+|6|O limite do sistema do Rich picture está bem especificado?|Sim|[Print](https://drive.google.com/file/d/15LhLA49HUj7ydIZRZ38Z4arREHkcXx2W/view?usp=sharing)|
+|7|Olhando o Rich picture você consegue analisar e entender o problema apresentado|Sim|[Print](https://drive.google.com/file/d/12uiTb718rH46ULNGmarzL7jvI7SLxRE-/view?usp=sharing)|
 
 <font size="3"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/maaduh), 2025.</p></font>
 
 </center>
 
-### Problemas encontrados
- - o grupo não fez o rich picture desse aplicativo.
 
 ## Bibliografia
 > Verificação https://requisitos-de-software.github.io/2025.1-Guardioes-da-Saude/planejamento/lista-de-apps-avaliados/
