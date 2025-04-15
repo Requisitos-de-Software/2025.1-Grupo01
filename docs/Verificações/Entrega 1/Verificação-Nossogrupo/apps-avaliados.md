@@ -13,7 +13,6 @@ A **tabela 1** descreve o integrante que fez a avaliação, e o app que avaliou.
 
 | Integrante                                     | Site Avaliado         |
 | ---------------------------------------------- | --------------------- |
-| [Eric Akio](https://github.com/eric-kingu)     ||
 | [Gabriel Dantas](https://github.com/gbevi)     |      [DetranDF](#DetranDF)   |
 | [Giovana Silva](https://github.com/gio221)     | [Sougov](#sougov)  |
 | [João Lobo](https://github.com/joaolobo10)     | [Metrô-DF](#Metrô-DF) |
@@ -25,14 +24,13 @@ A **tabela 1** descreve o integrante que fez a avaliação, e o app que avaliou.
 
 </center>
 
-## Sigaa
 
 ## DetranDF
 
-A **tabela 3** descreve a lista de verificação do app Detran DF
+A **tabela 2** descreve a lista de verificação do app Detran DF
 
 <center>
-    <font size="3"><p style="text-align: center">**Tabela 3:** lista do app Detran DF</p></font>
+    <font size="3"><p style="text-align: center">**Tabela 2:** lista do app Detran DF</p></font>
 
 | ID  | Critérios                                      | Sim/Não/Incompleto | Print                                                                                            |
 | --- | ---------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------ |
@@ -45,10 +43,10 @@ A **tabela 3** descreve a lista de verificação do app Detran DF
 
 ## Sou.gov
 
-A **tabela 4** descreve a lista de verificação do app sou.gov
+A **tabela 3** descreve a lista de verificação do app sou.gov
 
 <center>
-    <font size="3"><p style="text-align: center">**Tabela 4:** lista do app.sou gov</p></font>
+    <font size="3"><p style="text-align: center">**Tabela 3:** lista do app.sou gov</p></font>
 
 | ID  | Critérios                                      | Sim/Não/Incompleto | Print                                                                                            |
 | --- | ---------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------ |
@@ -61,10 +59,10 @@ A **tabela 4** descreve a lista de verificação do app sou.gov
 
 ## Metrô-DF
 
-A **tabela 5** descreve a lista de verificação do app Metrô-DF
+A **tabela 4** descreve a lista de verificação do app Metrô-DF
 
 <center>
-    <font size="3"><p style="text-align: center">**Tabela 5:** lista do app Metrô-DF</p></font>
+    <font size="3"><p style="text-align: center">**Tabela 4:** lista do app Metrô-DF</p></font>
 
 | ID  | Critérios                                      | Sim/Não/Incompleto | Print                                                                                            |
 | --- | ---------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------ |
@@ -77,10 +75,10 @@ A **tabela 5** descreve a lista de verificação do app Metrô-DF
 
 ## e-Título
 
-A **tabela 4** descreve a lista de verificação do app e-Título
+A **tabela 5** descreve a lista de verificação do app e-Título
 
 <center>
-    <font size="3"><p style="text-align: center">Tabela 4: lista do app e-Título</p></font>
+    <font size="3"><p style="text-align: center">Tabela 5: lista do app e-Título</p></font>
 
 |ID| Critérios                             | Sim/Não/Incompleto        | Print
 | ---------------------------------------------- | --------------------- |--------------------- |--------------------- |
@@ -92,10 +90,10 @@ A **tabela 4** descreve a lista de verificação do app e-Título
 </center>
 
 ## CNHDigital
-A **tabela 4** descreve a lista de verificação do app CNH Digital
+A **tabela 6** descreve a lista de verificação do app CNH Digital
 
 <center>
-    <font size="3"><p style="text-align: center">Tabela 4: lista do app CNH Digital</p></font>
+    <font size="3"><p style="text-align: center">Tabela 6: lista do app CNH Digital</p></font>
 
 |ID| Critérios                             | Sim/Não/Incompleto        | Print
 | ---------------------------------------------- | --------------------- |--------------------- |--------------------- |
@@ -109,7 +107,7 @@ A **tabela 4** descreve a lista de verificação do app CNH Digital
 A **tabela 7** descreve a lista de verificação do app BRB Mobilidade
 
 <center>
-    <font size="3"><p style="text-align: center">Tabela 4: lista do app BRB Mobilidade</p></font>
+    <font size="3"><p style="text-align: center">Tabela 7: lista do app BRB Mobilidade</p></font>
 
 |ID| Critérios                             | Sim/Não/Incompleto        | Print
 | ---------------------------------------------- | --------------------- |--------------------- |--------------------- |
@@ -135,7 +133,7 @@ A **tabela 7** descreve a lista de verificação do app BRB Mobilidade
 | :----: | :--------: | :--------------------: | :--------------------------------------------: | :----------------------------------------: |
 |  1.0   | 14/04/2025 | Início da documentação, avaliação sou gov | [Giovana Barbosa ](https://github.com/gio221)  |  [Gabriel Dantas](https://github.com/gbevi)|
 |  1.1   | 14/04/2025 | Início da documentação, avaliação sou gov | [Gabriel Dantas](https://github.com/gbevi)  |  [Luiz Bessa](https://github.com/lfelipebessa)   |
-|  1.2   | 14/04/2025 | Início da documentação, avaliação e-Título| [Luiz Bessa](https://github.com/lfelipebessa)  |  |
-|  1.3   | 14/04/2025 | avaliação BRB Mobilidade| [Pedro Camilo](https://github.com/PedrooCamilo)  |  |
-|  1.4   | 14/04/2025 | Início da documentação, avaliação CNHDigital| [Maria Eduarda](https://github.com/maaduh)  |  |
-|  1.5   | 14/04/2025 | Início da documentação, avaliação Metrô-DF |  [João Lobo](https://github.com/joaolobo10)   |                                            |
+|  1.2   | 14/04/2025 | Início da documentação, avaliação e-Título| [Luiz Bessa](https://github.com/lfelipebessa)  |[Giovana Barbosa ](https://github.com/gio221)  |
+|  1.3   | 14/04/2025 | avaliação BRB Mobilidade| [Pedro Camilo](https://github.com/PedrooCamilo)  | [Giovana Barbosa ](https://github.com/gio221) |
+|  1.4   | 14/04/2025 | Início da documentação, avaliação CNHDigital| [Maria Eduarda](https://github.com/maaduh)  | [Giovana Barbosa ](https://github.com/gio221) |
+|  1.5   | 14/04/2025 | Início da documentação, avaliação Metrô-DF |  [João Lobo](https://github.com/joaolobo10)   |                                [Giovana Barbosa ](https://github.com/gio221)            |

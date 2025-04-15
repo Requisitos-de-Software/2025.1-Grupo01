@@ -31,4 +31,4 @@ A home atende à checklist estipulada.
 
 | Versão |    Data    |       Descrição        |                     Autor                      |                  Revisor                   |
 | :----: | :--------: | :--------------------: | :--------------------------------------------: | :----------------------------------------: |
-|  1.0   | 14/04/2025 | Início da documentação | [Pedro Camilo ](https://github.com/PedrooCamilo)  |  |
+|  1.0   | 14/04/2025 | Início da documentação | [Pedro Camilo ](https://github.com/PedrooCamilo)  |[Giovana Barbosa ](https://github.com/gio221)   |

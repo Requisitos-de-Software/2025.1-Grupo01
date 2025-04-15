@@ -10,10 +10,9 @@ A **tabela 1** descreve quem avaliou cada app
 
 | Integrante                                     | Site Avaliado         |
 | ---------------------------------------------- | --------------------- |
-| [Eric Akio](https://github.com/eric-kingu)     ||
 | [Gabriel Dantas](https://github.com/gbevi)     |    [DetranDF](#DetranDF)    |
 | [Giovana Silva](https://github.com/gio221)     |  [CDT](#cdt)|
-| [João Lobo](https://github.com/joaolobo10)     | |
+| [João Lobo](https://github.com/joaolobo10)     ||
 | [Luiz Bessa](https://github.com/lfelipebessa)  | [NeoEnergia](#NeoEnergia)|
 | [Maria Eduarda](https://github.com/maaduh)     | [Guardiões da Saúde](#GuardioesDaSaude)  |
 | [Pedro Tulio](https://github.com/PedrooCamilo) | [Meu INSS](#MeuINSS) |
@@ -97,7 +96,7 @@ A **tabela 4** descreve a lista de verificação do rich picture do app NeoEnerg
 ### Problemas encontrados
  - o grupo não fez o rich picture desse aplicativo.
 
- ## Meu INSS
+## Meu INSS
 
 A **tabela 5** descreve a lista de verificação do rich picture do app Meu INSS
 <center>
@@ -152,6 +151,6 @@ A **tabela 5** descreve a lista de verificação do rich picture do app Guardiõ
 | :----: | :--------: | :--------------------: | :--------------------------------------------: | :----------------------------------------: |
 |  1.0   | 14/04/2025 | Início da documentação, avaliação da cdt | [Giovana Barbosa ](https://github.com/gio221)  | [Gabriel Dantas](https://github.com/gbevi) |
 |  1.1  | 14/04/2025 | Início da documentação, avaliação do DetranDF | [Gabriel Dantas](https://github.com/gbevi)  | [Luiz Bessa](https://github.com/lfelipebessa)   |
-|  1.2  | 14/04/2025 | Início da documentação, avaliação do NeoEnergia | [Luiz Bessa](https://github.com/lfelipebessa)  |  |
-|  1.3  | 14/04/2025 | Início da documentação, avaliação do Guardioes da Saude| [Maria Eduarda](https://github.com/maaduh)  |  |
-|  1.4   | 14/04/2025 | avaliação do MeuINSS | [Pedro Camilo](https://github.com/PedrooCamilo)  | |
+|  1.2  | 14/04/2025 | Início da documentação, avaliação do NeoEnergia | [Luiz Bessa](https://github.com/lfelipebessa)  | [Giovana Barbosa ](https://github.com/gio221)  |
+|  1.3  | 14/04/2025 | Início da documentação, avaliação do Guardioes da Saude| [Maria Eduarda](https://github.com/maaduh)  | [Giovana Barbosa ](https://github.com/gio221)  |
+|  1.4   | 14/04/2025 | avaliação do MeuINSS | [Pedro Camilo](https://github.com/PedrooCamilo)  |[Giovana Barbosa ](https://github.com/gio221)  |
