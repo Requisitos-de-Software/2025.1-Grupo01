@@ -4,10 +4,10 @@ Esse artefato é para que possamos verificar o aplictivo selecionado
 ## Objetivo
 Tem como objetivo verificar se o aplictivo selecionado esta de acordo com a lista de verificação
 
-A **tabela 3** descreve a lista de verificação do app Detran DF
+A **tabela 1** descreve a lista de verificação do app Detran DF
 
 <center>
-    <font size="3"><p style="text-align: center">Tabela 3: lista do app Detran DF</p></font>
+    <font size="3"><p style="text-align: center">Tabela 1: lista do app Detran DF</p></font>
 
 |ID| Critérios                             | Sim/Não/Incompleto        | Print
 | ---------------------------------------------- | --------------------- |--------------------- |--------------------- |
@@ -17,3 +17,9 @@ A **tabela 3** descreve a lista de verificação do app Detran DF
 <font size="3"><p style="text-align: center">Fonte: [Maria Eduarda ](https://github.com/maaduh), 2025.</p></font>
 
 </center>
+
+##Histórico de Versão
+
+| Versão |    Data    |       Descrição        |                     Autor                      |                  Revisor                   |
+| :----: | :--------: | :--------------------: | :--------------------------------------------: | :----------------------------------------: |
+|  1.0   | 14/04/2025 | Início da documentação | [maria Eduarda](https://github.com/maaduh)  | |
