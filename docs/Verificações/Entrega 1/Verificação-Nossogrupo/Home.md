@@ -1,11 +1,8 @@
-## Introdução
-Esse artefato verifica a home.
-
 ## Objetivo
-Verificar a home do projeto.
+Este artefato tem como objetivo analisar a interface da página inicial (home) do grupo responsável pelo aplicativo DetranDF. A verificação foca em identificar os principais elementos visuais e informativos presentes na home, avaliando sua organização, usabilidade e aderência aos propósitos do sistema.
 
 ## Metodologia
-A metodologia abordada é a de checklist. 
+Conforme exemplificado na Tabela 1, cada item do checklist é composto por: uma identificação numérica, a descrição do elemento avaliado, a resposta correspondente à análise (que pode ser "Sim", "Não", "Incompleto" ou "Não se Aplica"), o número da referência bibliográfica e um link com um print que comprova a fonte utilizada para fundamentar o item. Ao final da verificação, os itens com avaliações negativas são detalhados na seção de Problemas Encontrados.
 
 ## Checklist Cronograma
 A tabela 1 descreve a checklist relativa a home do projeto.
@@ -14,11 +11,11 @@ A tabela 1 descreve a checklist relativa a home do projeto.
 
 |ID| Critérios                             | Sim/Não/Incompleto        | Print
 | :----: | --------- | ---------- | ---------- | 
-| 1 | A home do projeto apresenta explicação sobre a disciplina?| Sim.| [print]() |
-| 2 | A home dá uma breve introdução sobre o que é o aplicativo escolhido?| Sim.| [print]() |
-| 3 | A home explica brevemente o motivo da escolha do aplicativo?| Sim.| [print]() |
-| 4 | Nome e foto de todos os membros do grupo constam?| Sim.| [print]() |
-| 5 | A home segue o padrão para referências e formatação esperada em um trabalho?| Sim.| [print]() |
+| 1 | A home do projeto apresenta introdução sobre a disciplina/artefatos?| Sim.| [print](https://drive.google.com/file/d/1oqBEVEsMu8xSKef2zhDwEN1dr8JDr0IJ/view?usp=sharing) |
+| 2 | A home dá uma breve introdução sobre o que é o aplicativo escolhido?| Sim.| [print](https://drive.google.com/file/d/1oqBEVEsMu8xSKef2zhDwEN1dr8JDr0IJ/view?usp=sharing) |
+| 3 | A home explica brevemente o motivo da escolha do aplicativo?| Sim.| [print]https://drive.google.com/file/d/1oqBEVEsMu8xSKef2zhDwEN1dr8JDr0IJ/view?usp=sharing() |
+| 4 | Nome e foto de todos os membros do grupo constam?| Sim.| [print](https://drive.google.com/file/d/1oqBEVEsMu8xSKef2zhDwEN1dr8JDr0IJ/view?usp=sharing) |
+| 5 | A home segue o padrão para referências e formatação?| Sim.| [print](https://drive.google.com/file/d/1oqBEVEsMu8xSKef2zhDwEN1dr8JDr0IJ/view?usp=sharing) |
 
 <font size="3"><p style="text-align: center">Fonte: [Pedro Camilo ](https://github.com/PedrooCamilo), 2025.</p></font>
 
