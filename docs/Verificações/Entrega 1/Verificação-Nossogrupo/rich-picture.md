@@ -26,7 +26,24 @@ A **tabela 1** descreve o integrante que fez cada rich picture
 
 
 ## DetranDF
+A **tabela 2** descreve a lista de verificação do rich picture do app DetranDF
 
+<center>
+    <font size="3"><p style="text-align: center">Tabela 2: lista do app DetranDF</p></font>
+
+|ID| Critérios                             | Sim/Não/Incompleto        | Print  
+| ---------------------------------------------- | --------------------- |--------------------- |--------------------- |
+|1|O rich picture é fácil de entender?|sim|[Print](https://drive.google.com/file/d/1RTsU-_e78TORKS90YyBhLp-XZpEIPCO5/view?usp=sharing)|
+|2|Os autores do Rich picture estão bem especificados?|sim|[Print](https://drive.google.com/file/d/1RTsU-_e78TORKS90YyBhLp-XZpEIPCO5/view?usp=sharing)|
+|3|As operações do Rich picture estão bem especificadas?|sim|[Print](https://drive.google.com/file/d/15LhLA49HUj7ydIZRZ38Z4arREHkcXx2W/view?usp=sharing)|
+|4|As tabelas do Rich picture estão bem especificadas?|sim|[Print](https://drive.google.com/file/d/15LhLA49HUj7ydIZRZ38Z4arREHkcXx2W/view?usp=sharing)|
+|5|As setas do Rich picture estão bem especificadas?|sim|[Print](https://drive.google.com/file/d/15LhLA49HUj7ydIZRZ38Z4arREHkcXx2W/view?usp=sharing)|
+|6|O limite do sistema do Rich picture está bem especificado?|sim|[Print](https://drive.google.com/file/d/15LhLA49HUj7ydIZRZ38Z4arREHkcXx2W/view?usp=sharing)|
+|7|Olhando o Rich picture você consegue analisar e entender o problema apresentado|sim|[Print](https://drive.google.com/file/d/12uiTb718rH46ULNGmarzL7jvI7SLxRE-/view?usp=sharing)|
+
+<font size="3"><p style="text-align: center">Fonte: [Gabriel Dantas ](https://github.com/gbevi), 2025.</p></font>
+
+</center>
 
 
 ## Sou.gov
@@ -111,7 +128,24 @@ A **tabela 4** descreve a lista de verificação do rich picture do app CNH Digi
 
 
 ## BRBMobilidade
+A **tabela 5** descreve a lista de verificação do rich picture do app BRB Mobilidade
 
+<center>
+    <font size="3"><p style="text-align: center">Tabela 5: lista do app BRB Mobilidade</p></font>
+
+|ID| Critérios                             | Sim/Não/Incompleto        | Print  
+| ---------------------------------------------- | --------------------- |--------------------- |--------------------- |
+|1|O rich picture é fácil de entender?|sim|[Print](https://drive.google.com/file/d/1RTsU-_e78TORKS90YyBhLp-XZpEIPCO5/view?usp=sharing)|
+|2|Os autores do Rich picture estão bem especificados?|sim|[Print](https://drive.google.com/file/d/1RTsU-_e78TORKS90YyBhLp-XZpEIPCO5/view?usp=sharing)|
+|3|As operações do Rich picture estão bem especificadas?|sim|[Print](https://drive.google.com/file/d/15LhLA49HUj7ydIZRZ38Z4arREHkcXx2W/view?usp=sharing)|
+|4|As tabelas do Rich picture estão bem especificadas?|sim|[Print](https://drive.google.com/file/d/15LhLA49HUj7ydIZRZ38Z4arREHkcXx2W/view?usp=sharing)|
+|5|As setas do Rich picture estão bem especificadas?|sim|[Print](https://drive.google.com/file/d/15LhLA49HUj7ydIZRZ38Z4arREHkcXx2W/view?usp=sharing)|
+|6|O limite do sistema do Rich picture está bem especificado?|sim|[Print](https://drive.google.com/file/d/15LhLA49HUj7ydIZRZ38Z4arREHkcXx2W/view?usp=sharing)|
+|7|Olhando o Rich picture você consegue analisar e entender o problema apresentado|sim|[Print](https://drive.google.com/file/d/12uiTb718rH46ULNGmarzL7jvI7SLxRE-/view?usp=sharing)|
+
+<font size="3"><p style="text-align: center">Fonte: [Pedro Camilo](https://github.com/PedrooCamilo), 2025.</p></font>
+
+</center>
 
 
 ## Bibliografia
@@ -130,3 +164,4 @@ A **tabela 4** descreve a lista de verificação do rich picture do app CNH Digi
 |  1.0   | 14/04/2025 | Início da documentação, avaliação sou gov | [Giovana Barbosa ](https://github.com/gio221)  |  [Luiz Bessa](https://github.com/lfelipebessa)    |
 |  1.1   | 14/04/2025 | Início da documentação, avaliação e-Título| [Luiz Bessa](https://github.com/lfelipebessa)  |  |
 |  1.2   | 14/04/2025 | Início da documentação, avaliação CNH Digital| [Maria Eduarda](https://github.com/maaduh)  |  |
+|  1.3   | 14/04/2025 | avaliação BRB Mobilidade| [Pedro Camilo](https://github.com/PedrooCamilo)  |  |
